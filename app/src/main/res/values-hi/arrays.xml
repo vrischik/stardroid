@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+इसका शुद्ध हिंदी में अनुवाद 10-02-2026 को वृश्चिक द्वारा किया गया ।
+भाषा की शुद्धता बनाए रखने हेतु कृपया अन्य भाषाओं के शब्द न जोड़ें ।
+-->
+<resources>
+    <string-array name="popular_date_examples">
+        <item translation_description="The user's current time">वर्तमान समय</item>
+        <item>आगामी सूर्यास्त</item>
+<item>आगामी सूर्योदय</item>
+<item>आगामी पूर्ण चन्द्र</item>
+<item>9 मई, 2016 का बुध पारगमन</item>
+<item>8 अप्रैल, 2024 का उत्तर अमेरिकी सूर्य ग्रहण</item>
+<item>अपोलो 11 चन्द्र अवतरण</item>
+<item>2020 की गुरु-शनि युति</item>
+</string-array>
+    <string-array name="sensor_speed">
+        <item translation_description="Slow sensor speed">मन्द</item>
+        <item translation_description="Normal sensor speed">मध्यम</item>
+        <item translation_description="Fast sensor speed">तीव्र</item>
+    </string-array>
+    <string-array name="sensor_damping">
+        <item translation_description="Low sensor damping factor">चञ्चल</item>
+        <item translation_description="Medium sensor damping factor">मध्यम</item>
+        <item translation_description="Extra High sensor damping factor">उपयुक्त</item>
+        <item translation_description="Really High sensor damping factor">विलम्बित</item>
+    </string-array>
+    <string-array name="viewing_direction">
+        <item translation_description="Normal viewing">सामान्य</item>
+        <item translation_description="Rotates the screen by 90 degrees">परिवर्तित क्षितिज</item>
+        <item
+            translation_description="Shows the sky as pointed at by the long edge of the phone">सङ्केतक विधा
+        </item>
+    </string-array>
+    <string-array name="auto_dim_texts">
+        <item translation_description="Dimmest screen setting">अति मन्द</item>
+        <item translation_description="Leave it on the system setting">तन्त्र पूर्वनिर्धारित</item>
+        <item translation_description="The setting used for the last 15 years">पारम्परिक</item>
+    </string-array>
+    <string-array name="font_size_texts">
+        <item translation_description="Smallest font size">लघु</item>
+        <item translation_description="Normal font size">मध्यम</item>
+        <item translation_description="Large font size">विशाल</item>
+        <item translation_description="Largest font size">अति विशाल</item>
+    </string-array>
+</resources>
