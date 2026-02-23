@@ -1,0 +1,42 @@
+<resources>
+    <!-- The folks who made Sky Map Happen -->
+<string name="credits_text" translation_description="Please do not change the &lt; and &gt; markup">
+    &lt;h2&gt;विकास में सहयोग दें&lt;/h2&gt;
+&lt;p&gt;आकाश मानचित्र (Sky Map) निःशुल्क, मुक्त स्रोत (open source) और विज्ञापन-मुक्त है। यदि आपको इसका उपयोग करना अच्छा लगता है, तो कृपया &lt;a href="https://github.com/sky-map-team/stardroid?tab=readme-ov-file#support-the-project"&gt;हमारे गिटहब (GitHub) पृष्ठ&lt;/a&gt; पर निरंतर विकास हेतु सहयोग करने पर विचार करें।&lt;/p&gt;
+&lt;h3&gt;हाल ही में दान देने वाले इन सज्जनों का धन्यवाद!&lt;/h3&gt;
+    %1$s
+
+&lt;h2&gt;श्रेय&lt;/h2&gt;
+&lt;h3&gt;गूगल (Google) में मूल अभियांत्रिकी, अभिकल्पना और उत्पाद प्रबंधन&lt;/h3&gt;
+&lt;p&gt;ब्रेंट ब्रायन, डोमिनिक विडोस, हेक्टर उइलेट, जेम्स पॉवेल, जॉन टेलर, केविन सेराफिनी, लियोर रॉन&lt;/p&gt;
+
+&lt;h3&gt;गूगल के पश्चात की अभियांत्रिकी&lt;/h3&gt;
+&lt;p&gt;जॉन टेलर, केविन सेराफिनी&lt;/p&gt;
+
+&lt;h3&gt;मुक्त स्रोत योगदानकर्ता&lt;/h3&gt;
+&lt;p&gt;
+    %2$s
+&lt;/p&gt;
+&lt;p&gt;धन्यवाद! नवीनतम योगदानकर्ताओं को &lt;a href="https://github.com/sky-map-team/stardroid/graphs/contributors"&gt;गिटहब (GitHub)&lt;/a&gt; पर देखें।
+&lt;/p&gt;
+
+&lt;h2&gt;स्वीकृतियाँ&lt;/h2&gt;
+&lt;p&gt;आकाश मानचित्र मूल रूप से गूगल इंक. द्वारा &quot;गूगल स्काई मैप&quot; के रूप में विकसित किया गया था और २०१२ में इसे मुक्त स्रोत बना दिया गया।&lt;/p&gt;
+&lt;p&gt;आकाश मानचित्र निम्नलिखित स्रोतों से प्राप्त आंकड़ों पर आधारित मानचित्रों का उपयोग करता है:&lt;/p&gt;
+&lt;ul class="credits"&gt;
+&lt;li&gt;खगोलीय डेटा केंद्र, स्ट्रासबर्ग (&lt;a href="https://cdsweb.u-strasbg.fr/"&gt;https://cdsweb.u-strasbg.fr/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;द ब्राइट स्टार कैटलॉग, ५वां संशोधित संस्करण (हॉफलीथ डी., वारेन जूनियर डब्ल्यू.एच.)&lt;/li&gt;
+&lt;li&gt;द HYG डेटाबेस, HYG v1.0. (&lt;a href="https://www.astronexus.com/"&gt;https://www.astronexus.com/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;NGC/IC वस्तुओं का इतिहास और सटीक स्थिति (हैरॉल्ड जी. कोरविन जूनियर)&lt;/li&gt;
+&lt;li&gt;गैर-तारकीय खगोलीय वस्तुओं की संशोधित नई सामान्य सूची (सुलेन्टिक जे.डब्ल्यू., टिफ्ट डब्ल्यू.जी.)&lt;/li&gt;
+&lt;li&gt;SFA तारा चार्ट (&lt;a href="https://observe.phy.sfasu.edu/SFAStarCharts/SFAStarChartFAQ.html"&gt;https://observe.phy.sfasu.edu/SFAStarCharts/SFAStarChartFAQ.html&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;सौर मंडल की वस्तुओं की स्थिति USNO द्वारा प्रदान किए गए आंकड़ों से गणना की जाती है (&lt;a href="https://www.usno.navy.mil/USNO/astronomical-applications"&gt;https://www.usno.navy.mil/USNO/astronomical-applications&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;गोलाकार कवरेज डेटा (&lt;a href="https://www2.research.att.com/~njas/coverings"&gt;https://www2.research.att.com/~njas/coverings&lt;/a&gt;) से प्राप्त किया गया&lt;/li&gt;
+&lt;li&gt;हबल चित्र नासा (NASA) के स्पेस टेलीस्कोप साइंस इंस्टीट्यूट द्वारा प्रदान किए गए हैं (&lt;a href="https://hubblesite.org/"&gt;https://hubblesite.org/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;२०२४ सूर्य ग्रहण मानचित्र नासा के साइंटिफिक विज़ुअलाइज़ेशन स्टूडियो के सौजन्य से।&lt;/li&gt;
+&lt;li&gt;अंतरराष्ट्रीय उल्का संगठन से उल्कापात डेटा (&lt;a href="https://www.imo.net/data"&gt;https://www.imo.net/data&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;पीटर केनेट द्वारा M31 छवि (&lt;a href="https://commons.wikimedia.org/wiki/File:M31(Kennett).jpg"&gt;https://commons.wikimedia.org/wiki/File:M31(Kennett).jpg&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;धूमकेतु लियोनार्ड डेटा: In-The-Sky.org&lt;/li&gt;
+&lt;/ul&gt;
+</string>
+</resources>
