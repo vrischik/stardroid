@@ -152,3 +152,203 @@
     <string name="altair" translation_description="Name of the Star Altair">श्रवण</string>
     <string name="acrux" translation_description="Name of the Star Acrux">त्रिशङ्कु-तारा</string>
     <string name="aldebaran" translation_description="Name of the Star Aldebaran">रोहिणी</string>
+    <string name="spica" translation_description="Name of the Star Spica">चित्रा</string>
+    <string name="antares" translation_description="Name of the Star Antares">ज्येष्ठा</string>
+    <string name="pollux" translation_description="Name of the Star Pollux">पुनर्वसु</string>
+    <string name="fomalhaut" translation_description="Name of the Star Fomalhaut">मीनमुख</string>
+    <string name="deneb" translation_description="Name of the Star Deneb">हंसपुच्छ</string>
+    <string name="regulus" translation_description="Name of the Star Regulus">मघा</string>
+    <string name="adhara" translation_description="Name of the Star Adhara">अधारा</string>
+    <string name="shaula" translation_description="Name of the Star Shaula">मूला</string>
+    <string name="alnath" translation_description="Name of the Star Alnath">अग्नि</string>
+    <string name="alnilam" translation_description="Name of the Star Alnilam">मृगशिर मध्य</string>
+    <string name="alnair" translation_description="Name of the Star Alnair">अलनेर</string>
+    <string name="alioth" translation_description="Name of the Star Alioth">अंगिरस</string>
+    <string name="mirphak" translation_description="Name of the Star Mirphak">ब्रह्महृदय</string>
+    <string name="kaus_australis" translation_description="Name of the Star Kaus Australis">पूर्वाषाढ़ा</string>
+    <string name="dubhe" translation_description="Name of the Star Dubhe">क्रतु</string>
+    <string name="alkaid" translation_description="Name of the Star Alkaid">मरीचि</string>
+    <string name="alhena" translation_description="Name of the Star Alhena">आर्द्रा</string>
+    <string name="castor" translation_description="Name of the Star Castor">कस्तूरी</string>
+    <string name="polaris" translation_description="Name of the Star Polaris">ध्रुव तारा</string>
+    <string name="alphard" translation_description="Name of the Star Alphard">सर्पमुख</string>
+    <string name="hamal" translation_description="Name of the Star Hamal">अश्विनी</string>
+    <string name="algieba" translation_description="Name of the Star Algieba">केसरी</string>
+    <string name="diphda" translation_description="Name of the Star Diphda">तिमिपुच्छ</string>
+    <string name="nunki" translation_description="Name of the Star Nunki">उत्तराषाढ़ा</string>
+    <string name="mirach" translation_description="Name of the Star Mirach">रेवती</string>
+    <string name="alpheratz" translation_description="Name of the Star Alpheratz">उत्तरभाद्रपद</string>
+    <string name="saiph" translation_description="Name of the Star Saiph">सैफ</string>
+    <string name="kochab" translation_description="Name of the Star Kochab">कोकाब</string>
+    <string name="rasalhague" translation_description="Name of the Star Rasalhague">भुजंगधारी</string>
+    <string name="algol" translation_description="Name of the Star Algol">मायावी तारा</string>
+    <string name="denebola" translation_description="Name of the Star Denebola">उत्तराफाल्गुनी</string>
+    <string name="alphekka" translation_description="Name of the Star Alphekka">मुकुटमणि</string>
+    <string name="etamin" translation_description="Name of the Star Etamin">सर्पशिर</string>
+    <string name="kaus" translation_description="Name of the Star Kaus">धनुष</string>
+    <string name="shedir" translation_description="Name of the Star Shedir">काश्यपी</string>
+    <string name="caph" translation_description="Name of the Star Caph">काफ</string>
+    <string name="izar" translation_description="Name of the Star Izar">इज्जर</string>
+    <string name="merak" translation_description="Name of the Star Merak">पुलह</string>
+    <string name="enif" translation_description="Name of the Star Enif">नासिका</string>
+    <string name="ankaa" translation_description="Name of the Star Ankaa">अंका</string>
+    <string name="phad" translation_description="Name of the Star Phad">पुलस्त्य</string>
+    <string name="alderamin" translation_description="Name of the Star Alderamin">बाहु</string>
+    <string name="scheat" translation_description="Name of the Star Scheat">पूर्वाभाद्रपद</string>
+    <string name="markab" translation_description="Name of the Star Markab">पूर्वभाद्रपद</string>
+    <string name="menkar" translation_description="Name of the Star Menkar">नासाग्र</string>
+    <string name="arneb" translation_description="Name of the Star Arneb">शशक</string>
+    <string name="unukalhai" translation_description="Name of the Star Unukalhai">सर्पकंठ</string>
+    <string name="algenib" translation_description="Name of the Star Algenib">पार्श्व</string>
+    <string name="vindemiatrix" translation_description="Name of the Star Vindemiatrix">द्राक्षाफल</string>
+    <string name="alcyone" translation_description="Name of the Star Alcyone">कृत्तिका</string>
+    <string name="dog_star" translation_description="Name of the Dog Star (Sirius)">लुब्धक तारा</string>
+    <string name="north_star" translation_description="Name of the North Star">ध्रुव तारा</string>
+    <string name="pole_star" translation_description="Name of the (North) Pole Star">ध्रुव तारा</string>
+    <string name="alpha_centauri" translation_description="Name of the star Alpha Centauri">मित्रक</string>
+    <string name="rigil_kent" translation_description="Name of the star Rigil Kent">ऋजिल केंट</string>
+    <string name="e_lyrae" translation_description="Name of the star ε Lyrae">एप्सीलन वीणा</string>
+
+    <!-- Messier objects etc -->
+    <string name="m1" translation_description="Name of the Messier object M1">म. १</string>
+    <string name="m2" translation_description="Name of the Messier object M2">म. २</string>
+    <string name="m3" translation_description="Name of the Messier object M3">म. ३</string>
+    <string name="m4" translation_description="Name of the Messier object M4">म. ४</string>
+    <string name="m5" translation_description="Name of the Messier object M5">म. ५</string>
+    <string name="m6" translation_description="Name of the Messier object M6">म. ६</string>
+    <string name="m7" translation_description="Name of the Messier object M7">म. ७</string>
+    <string name="m8" translation_description="Name of the Messier object M8">म. ८</string>
+    <string name="m9" translation_description="Name of the Messier object M9">म. ९</string>
+    <string name="m10" translation_description="Name of the Messier object M10">म. १०</string>
+    <string name="m11" translation_description="Name of the Messier object M11">म. ११</string>
+    <string name="m12" translation_description="Name of the Messier object M12">म. १२</string>
+    <string name="m13" translation_description="Name of the Messier object M13">म. १३</string>
+    <string name="m14" translation_description="Name of the Messier object M14">म. १४</string>
+    <string name="m15" translation_description="Name of the Messier object M15">म. १५</string>
+    <string name="m16" translation_description="Name of the Messier object M16">म. १६</string>
+    <string name="m17" translation_description="Name of the Messier object M17">म. १७</string>
+    <string name="m18" translation_description="Name of the Messier object M18">म. १८</string>
+    <string name="m19" translation_description="Name of the Messier object M19">म. १९</string>
+    <string name="m20" translation_description="Name of the Messier object M20">म. २०</string>
+    <string name="m21" translation_description="Name of the Messier object M21">म. २१</string>
+    <string name="m22" translation_description="Name of the Messier object M22">म. २२</string>
+    <string name="m23" translation_description="Name of the Messier object M23">म. २३</string>
+    <string name="m24" translation_description="Name of the Messier object M24">म. २४</string>
+    <string name="m25" translation_description="Name of the Messier object M25">म. २५</string>
+    <string name="m26" translation_description="Name of the Messier object M26">म. २६</string>
+    <string name="m27" translation_description="Name of the Messier object M27">म. २७</string>
+    <string name="m28" translation_description="Name of the Messier object M28">म. २८</string>
+    <string name="m29" translation_description="Name of the Messier object M29">म. २९</string>
+    <string name="m30" translation_description="Name of the Messier object M30">म. ३०</string>
+    <string name="m31" translation_description="Name of the Messier object M31">म. ३१</string>
+    <string name="m32" translation_description="Name of the Messier object M32">म. ३२</string>
+    <string name="m33" translation_description="Name of the Messier object M33">म. ३३</string>
+    <string name="m34" translation_description="Name of the Messier object M34">म. ३४</string>
+    <string name="m35" translation_description="Name of the Messier object M35">म. ३५</string>
+    <string name="m36" translation_description="Name of the Messier object M36">म. ३६</string>
+    <string name="m37" translation_description="Name of the Messier object M37">म. ३७</string>
+    <string name="m38" translation_description="Name of the Messier object M38">म. ३८</string>
+    <string name="m39" translation_description="Name of the Messier object M39">म. ३९</string>
+    <string name="m40" translation_description="Name of the Messier object M40">म. ४०</string>
+    <string name="m41" translation_description="Name of the Messier object M41">म. ४१</string>
+    <string name="m42" translation_description="Name of the Messier object M42">म. ४२</string>
+    <string name="m43" translation_description="Name of the Messier object M43">म. ४३</string>
+    <string name="m44" translation_description="Name of the Messier object M44">म. ४४</string>
+    <string name="m45" translation_description="Name of the Messier object M45">म. ४५</string>
+    <string name="m46" translation_description="Name of the Messier object M46">म. ४६</string>
+    <string name="m47" translation_description="Name of the Messier object M47">म. ४७</string>
+    <string name="m48" translation_description="Name of the Messier object M48">म. ४८</string>
+    <string name="m49" translation_description="Name of the Messier object M49">म. ४९</string>
+    <string name="m50" translation_description="Name of the Messier object M50">म. ५०</string>
+    <string name="m51" translation_description="Name of the Messier object M51">म. ५१</string>
+    <string name="m52" translation_description="Name of the Messier object M52">म. ५२</string>
+    <string name="m53" translation_description="Name of the Messier object M53">म. ५३</string>
+    <string name="m54" translation_description="Name of the Messier object M54">म. ५४</string>
+    <string name="m55" translation_description="Name of the Messier object M55">म. ५५</string>
+    <string name="m56" translation_description="Name of the Messier object M56">म. ५६</string>
+    <string name="m57" translation_description="Name of the Messier object M57">म. ५७</string>
+    <string name="m58" translation_description="Name of the Messier object M58">म. ५८</string>
+    <string name="m59" translation_description="Name of the Messier object M59">म. ५९</string>
+    <string name="m60" translation_description="Name of the Messier object M60">म. ६०</string>
+    <string name="m61" translation_description="Name of the Messier object M61">म. ६१</string>
+    <string name="m62" translation_description="Name of the Messier object M62">म. ६२</string>
+    <string name="m63" translation_description="Name of the Messier object M63">म. ६३</string>
+    <string name="m64" translation_description="Name of the Messier object M64">म. ६४</string>
+    <string name="m65" translation_description="Name of the Messier object M65">म. ६५</string>
+    <string name="m66" translation_description="Name of the Messier object M66">म. ६६</string>
+    <string name="m67" translation_description="Name of the Messier object M67">म. ६७</string>
+    <string name="m68" translation_description="Name of the Messier object M68">म. ६८</string>
+    <string name="m69" translation_description="Name of the Messier object M69">म. ६९</string>
+    <string name="m70" translation_description="Name of the Messier object M70">म. ७०</string>
+    <string name="m71" translation_description="Name of the Messier object M71">म. ७१</string>
+    <string name="m72" translation_description="Name of the Messier object M72">म. ७२</string>
+    <string name="m73" translation_description="Name of the Messier object M73">म. ७३</string>
+    <string name="m74" translation_description="Name of the Messier object M74">म. ७४</string>
+    <string name="m75" translation_description="Name of the Messier object M75">म. ७५</string>
+    <string name="m76" translation_description="Name of the Messier object M76">म. ७६</string>
+    <string name="m77" translation_description="Name of the Messier object M77">म. ७७</string>
+    <string name="m78" translation_description="Name of the Messier object M78">म. ७८</string>
+    <string name="m79" translation_description="Name of the Messier object M79">म. ७९</string>
+    <string name="m80" translation_description="Name of the Messier object M80">म. ८०</string>
+    <string name="m81" translation_description="Name of the Messier object M81">म. ८१</string>
+    <string name="m82" translation_description="Name of the Messier object M82">म. ८२</string>
+    <string name="m83" translation_description="Name of the Messier object M83">म. ८३</string>
+    <string name="m84" translation_description="Name of the Messier object M84">म. ८४</string>
+    <string name="m85" translation_description="Name of the Messier object M85">म. ८५</string>
+    <string name="m86" translation_description="Name of the Messier object M86">म. ८६</string>
+    <string name="m87" translation_description="Name of the Messier object M87">म. ८७</string>
+    <string name="m88" translation_description="Name of the Messier object M88">म. ८८</string>
+    <string name="m89" translation_description="Name of the Messier object M89">म. ८९</string>
+    <string name="m90" translation_description="Name of the Messier object M90">म. ९०</string>
+    <string name="m91" translation_description="Name of the Messier object M91">म. ९१</string>
+    <string name="m92" translation_description="Name of the Messier object M92">म. ९२</string>
+    <string name="m93" translation_description="Name of the Messier object M93">म. ९३</string>
+    <string name="m94" translation_description="Name of the Messier object M94">म. ९४</string>
+    <string name="m95" translation_description="Name of the Messier object M95">म. ९५</string>
+    <string name="m96" translation_description="Name of the Messier object M96">म. ९६</string>
+    <string name="m97" translation_description="Name of the Messier object M97">म. ९७</string>
+    <string name="m98" translation_description="Name of the Messier object M98">म. ९८</string>
+    <string name="m99" translation_description="Name of the Messier object M99">म. ९९</string>
+    <string name="m100" translation_description="Name of the Messier object M100">म. १००</string>
+    <string name="m101" translation_description="Name of the Messier object M101">म. १०१</string>
+    <string name="m102" translation_description="Name of the Messier object M102">म. १०२</string>
+    <string name="m103" translation_description="Name of the Messier object M103">म. १०३</string>
+    <string name="m104" translation_description="Name of the Messier object M104">म. १०४</string>
+    <string name="m105" translation_description="Name of the Messier object M105">म. १०५</string>
+    <string name="m106" translation_description="Name of the Messier object M106">म. १०६</string>
+    <string name="m107" translation_description="Name of the Messier object M107">म. १०७</string>
+    <string name="m108" translation_description="Name of the Messier object M108">म. १०८</string>
+    <string name="m109" translation_description="Name of the Messier object M109">म. १०९</string>
+    <string name="m110" translation_description="Name of the Messier object M110">म. ११०</string>
+    <string name="ngc6543" translation_description="Name of the Messier object NGC6543">एन.जी.सी. ६५४३</string>
+    <string name="ngc5139" translation_description="Name of the Messier object NGC5139">एन.जी.सी. ५१३९</string>
+    <string name="butterfly_cluster" translation_description="Name of the Messier object Butterfly Cluster">चित्रपतंग तारागुच्छ</string>
+    <string name="scorpions_tail" translation_description="Name of the Messier object Scorpion\'s Tail">वृश्चिक पुच्छ</string>
+    <string name="winnecke_4" translation_description="Name of the Messier object Winnecke 4">विनेकी ४</string>
+    <string name="beehive_cluster" translation_description="Name of the Messier object Beehive Cluster">पुष्य तारागुच्छ</string>
+    <string name="praesepe" translation_description="Name of the Messier object Praesepe">मधुकोश</string>
+    <string name="seven_sisters" translation_description="Name of the Messier object Seven Sisters">कृत्तिका</string>
+
+    <!-- Manmade objects -->
+    <string name="space_station" translation_description="Name of the Internation Space Station">अंतरराष्ट्रीय अंतरिक्ष केंद्र</string>
+    <string name="space_shuttle" translation_description="Name of the Space Shuttle">पुनःप्रयोज्य अंतरिक्ष यान</string>
+
+    <!-- Meteors -->
+    <string name="leonids" translation_description="Meteor Shower">मघा उल्कापात</string>
+    <string name="geminids" translation_description="Meteor Shower">मिथुन उल्कापात</string>
+    <string name="quadrantids" translation_description="Meteor Shower">चतुर्थांश उल्कापात</string>
+    <string name="lyrids" translation_description="Meteor Shower">वीणा उल्कापात</string>
+    <string name="aquariids" translation_description="Meteor Shower">एटा कुंभ उल्कापात</string>
+    <string name="deltaaquariids" translation_description="Meteor Shower">डेल्टा कुंभ उल्कापात</string>
+    <string name="perseids" translation_description="Meteor Shower">ययाति उल्कापात</string>
+    <string name="orionids" translation_description="Meteor Shower">मृगशिरा उल्कापात</string>
+    <string name="puppidvelids" translation_description="Meteor Shower">कपोत-पाल उल्कापात</string>
+    <string name="ursids" translation_description="Meteor Shower">लघु सप्तर्षि उल्कापात</string>
+
+    <!-- Comets -->
+    <string name="comet_leonard">लिओनार्ड धूमकेतु</string>
+    <!-- TODO: no need for these alt names once our search is less lousy -->
+    <string name="comet_leonard_alt">लिओनार्ड (धूमकेतु)</string>
+    <string name="comet_neowise">नियोवाइज धूमकेतु</string>
+    <string name="comet_neowise_alt">नियोवाइज (धूमकेतु)</string>
+</resources>
