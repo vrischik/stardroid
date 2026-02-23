@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Educational Object Info Feature -->
+    <!-- Solar System Educational Content -->
+    <string name="object_info_sun_description" translation_description="Short description of the Sun">सूर्य हमारे सौरमण्डल के केन्द्र में स्थित तारा है। यह वह प्रकाश और ताप प्रदान करता है जिससे पृथ्वी पर जीवन सम्भव होता है।</string>
+    <string name="object_info_sun_funfact" translation_description="Fun fact about the Sun">सूर्य में सौरमण्डल के सम्पूर्ण द्रव्यमान का ९९.८६% भाग निहित है। इसके भीतर लगभग १३ लाख पृथ्वी समा सकती हैं!</string>
+    <string name="object_info_sun_distance">१५ करोड़ कि.मी.</string>
+    <string name="object_info_sun_size">१.४ लाख कि.मी. व्यास</string>
+    <string name="object_info_sun_mass">1.989 × 10³⁰ kg</string>
+    <string name="object_info_moon_description" translation_description="Short description of the Moon">चन्द्रमा पृथ्वी का एकमात्र प्राकृतिक उपग्रह है। यह हमारे ज्वार-भाटे को प्रभावित करता है और अब तक १२ अन्तरिक्ष यात्री यहाँ जा चुके हैं।</string>
+    <string name="object_info_moon_funfact" translation_description="Fun fact about the Moon">चन्द्रमा धीरे-धीरे पृथ्वी से लगभग ३.८ से.मी. प्रति वर्ष की गति से दूर जा रहा है। अरबों वर्ष पूर्व यह अत्यन्त निकट था!</string>
+    <string name="object_info_moon_distance">३,८४,४०० कि.मी.</string>
+    <string name="object_info_moon_size">३,४७४ कि.मी. व्यास</string>
+    <string name="object_info_moon_mass">7.35 × 10²² kg</string>
+    <string name="object_info_mercury_description" translation_description="Short description of Mercury">बुध लघुतम ग्रह है और सूर्य के सर्वाधिक निकट है। बुध पर एक वर्ष पृथ्वी के केवल ८८ दिनों का होता है।</string>
+    <string name="object_info_mercury_funfact" translation_description="Fun fact about Mercury">सूर्य के निकटतम होने के उपरान्त भी बुध उष्णतम ग्रह नहीं है। सघन वायुमण्डल के कारण शुक्र अधिक उष्ण है!</string>
+    <string name="object_info_mercury_distance">५.८ करोड़ कि.मी. (सूर्य से)</string>
+    <string name="object_info_mercury_size">४,८८० कि.मी. व्यास</string>
+    <string name="object_info_mercury_mass">3.3 × 10²³ kg</string>
+    <string name="object_info_venus_description" translation_description="Short description of Venus">शुक्र सूर्य से द्वितीय ग्रह है और हमारे सौरमण्डल का उष्णतम ग्रह है। समान आकार के कारण इसे प्रायः पृथ्वी की जुड़वाँ बहन कहा जाता है।</string>
+    <string name="object_info_venus_funfact" translation_description="Fun fact about Venus">शुक्र पर एक दिन इसके एक वर्ष से अधिक लम्बा होता है! इसे अपनी धुरी पर एक बार घूमने में २४३ पृथ्वी दिवस लगते हैं, किन्तु सूर्य की परिक्रमा में केवल २२५ दिन।</string>
+    <string name="object_info_venus_distance">१०.८ करोड़ कि.मी. (औसत)</string>
+    <string name="object_info_venus_size">१२,१०४ कि.मी. व्यास</string>
+    <string name="object_info_venus_mass">4.87 × 10²⁴ kg</string>
+    <string name="object_info_mars_description" translation_description="Short description of Mars">मङ्गल सूर्य से चतुर्थ ग्रह है, जिसे इसकी सतह पर उपस्थित लौह-भस्म के कारण रक्त ग्रह के रूप में जाना जाता है।</string>
+    <string name="object_info_mars_funfact" translation_description="Fun fact about Mars">मङ्गल पर सौरमण्डल का विशालतम ज्वालामुखी स्थित है: ओलम्पस मोन्स, जो गौरीशङ्कर से लगभग २.५ गुणा अधिक ऊँचा है!</string>
+    <string name="object_info_mars_distance">२२.८ करोड़ कि.मी. (औसत)</string>
+    <string name="object_info_mars_size">६,७७९ कि.मी. व्यास</string>
+    <string name="object_info_mars_mass">6.39 × 10²³ kg</string>
+    <string name="object_info_jupiter_description" translation_description="Short description of Jupiter">बृहस्पति हमारे सौरमण्डल का विशालतम ग्रह है। यह एक गैसीय दानव है जिसमें विशाल रक्त बिन्दु नामक प्रसिद्ध चक्रवात है।</string>
+    <string name="object_info_jupiter_funfact" translation_description="Fun fact about Jupiter">बृहस्पति के कम से कम ९५ ज्ञात उपग्रह हैं! इसका विशालतम उपग्रह, गेनीमीड, बुध ग्रह से भी बड़ा है।</string>
+    <string name="object_info_jupiter_distance">७७.८ करोड़ कि.मी. (औसत)</string>
+    <string name="object_info_jupiter_size">१,३९,८२० कि.मी. व्यास</string>
+    <string name="object_info_jupiter_mass">1.898 × 10²⁷ kg</string>
+    <string name="object_info_saturn_description" translation_description="Short description of Saturn">शनि सूर्य से षष्ठ ग्रह है, जो हिम और शिलाओं से निर्मित अपने अद्भुत वलय तन्त्र के लिए प्रसिद्ध है।</string>
+    <string name="object_info_saturn_funfact" translation_description="Fun fact about Saturn">शनि इतना हल्का है कि यह जल में तैर सकता है! इसका घनत्व जल से कम है, यद्यपि इसका परीक्षण करने हेतु कोई इतना विशाल जलपात्र उपलब्ध नहीं है।</string>
+    <string name="object_info_saturn_distance">१.४ अरब कि.मी. (औसत)</string>
+    <string name="object_info_saturn_size">१,१६,४६० कि.मी. व्यास</string>
+    <string name="object_info_saturn_mass">5.68 × 10²⁶ kg</string>
+    <string name="object_info_uranus_description" translation_description="Short description of Uranus">अरुण एक हिम दानव है जो अपनी धुरी पर पार्श्व की ओर झुककर घूर्णन करता है। यह दूरबीन की सहायता से खोजा गया प्रथम ग्रह था।</string>
+    <string name="object_info_uranus_funfact" translation_description="Fun fact about Uranus">अरुण ९८-अंश के झुकाव पर घूर्णन करता है, जो सम्भवतः सुदूर अतीत में पृथ्वी के आकार के किसी पिण्ड से हुई टक्कर के कारण है!</string>
+    <string name="object_info_uranus_distance">२.९ अरब कि.मी. (औसत)</string>
+    <string name="object_info_uranus_size">५०,७२४ कि.मी. व्यास</string>
+    <string name="object_info_uranus_mass">8.68 × 10²⁵ kg</string>
+    <string name="object_info_neptune_description" translation_description="Short description of Neptune">वरुण हमारे सौरमण्डल का सुदूरतम ग्रह है। यहाँ सौरमण्डल की तीव्रतम पवनें चलती हैं, जिनकी गति २,१०० कि.मी. प्रति घण्टा तक पहुँच जाती है।</string>
+    <string name="object_info_neptune_funfact" translation_description="Fun fact about Neptune">वरुण की खोज गणित के माध्यम से हुई थी! वैज्ञानिकों ने गणना द्वारा इसके स्थान का पूर्वानुमान लगा लिया था।</string>
+    <string name="object_info_neptune_distance">४.५ अरब कि.मी. (औसत)</string>
+    <string name="object_info_neptune_size">४९,२४४ कि.मी. व्यास</string>
+    <string name="object_info_neptune_mass">1.024 × 10²⁶ kg</string>
+    <string name="object_info_pluto_description" translation_description="Short description of Pluto">यम कुइपर मेखला में स्थित एक वामन ग्रह है। वर्ष २००६ तक इसे नवम ग्रह माना जाता था।</string>
+    <string name="object_info_pluto_funfact" translation_description="Fun fact about Pluto">यम के पास नाइट्रोजन हिम से निर्मित एक हृदय-आकार का हिमनद है, जो नासा के न्यू होराइजन्स अभियान के चित्रों में स्पष्ट दृश्यमान है!</string>
+    <string name="object_info_pluto_distance">५.९ अरब कि.मी. (औसत)</string>
+    <string name="object_info_pluto_size">२,३७७ कि.मी. व्यास</string>
+    <string name="object_info_pluto_mass">1.3 × 10²² kg</string>
+    <!-- Bright Stars Educational Content -->
+    <string name="object_info_sirius_description" translation_description="Short description of Sirius">लुब्धक रात्रिकालीन आकाश का सर्वाधिक प्रदीप्त तारा है, जो महाश्वान नक्षत्रमण्डल में स्थित है।</string>
+    <string name="object_info_sirius_funfact" translation_description="Fun fact about Sirius">लुब्धक वास्तव में एक द्वि-तारा प्रणाली है! इसका साथी लुब्धक-बी, एक श्वेत वामन तारा है जो आकार में पृथ्वी तुल्य है परन्तु द्रव्यमान में सूर्य के समान सघन है।</string>
+    <string name="object_info_sirius_distance">८.६ प्रकाश-वर्ष</string>
+    <string name="object_info_sirius_size">१.७ सौर त्रिज्या</string>
+    <string name="object_info_sirius_mass">२.१ सौर द्रव्यमान</string>
+    <string name="object_info_vega_description" translation_description="Short description of Vega">अभिजित पृथ्वी से दृश्यमान प्रदीप्ततम तारों में से एक है, जो वीणा नक्षत्रमण्डल में स्थित है।</string>
+    <string name="object_info_vega_funfact" translation_description="Fun fact about Vega">पृथ्वी के अक्षीय विचलन के कारण अभिजित लगभग १४,००० वर्ष पूर्व ध्रुवतारा था और आगामी १२,००० वर्षों में यह पुनः ध्रुवतारा बनेगा!</string>
+    <string name="object_info_vega_distance">२५ प्रकाश-वर्ष</string>
+    <string name="object_info_vega_size">२.४ सौर त्रिज्या</string>
+    <string name="object_info_vega_mass">२.१ सौर द्रव्यमान</string>
+    <string name="object_info_betelgeuse_description" translation_description="Short description of Betelgeuse">आर्द्रा एक रक्त महादानव तारा है जो कालपुरुष के स्कन्ध को चिह्नित करता है। यह नग्न आँखों से दृश्यमान विशालतम तारों में से एक है।</string>
+    <string name="object_info_betelgeuse_funfact" translation_description="Fun fact about Betelgeuse">आर्द्रा इतना विशाल है कि यदि इसे सूर्य के स्थान पर रखा जाए, तो यह बुध, शुक्र, पृथ्वी, मङ्गल और सम्भवतः बृहस्पति को भी निगल जाएगा!</string>
+    <string name="object_info_betelgeuse_distance">~७०० प्रकाश-वर्ष</string>
+    <string name="object_info_betelgeuse_size">~९०० सौर त्रिज्या</string>
+    <string name="object_info_betelgeuse_mass">~१२ सौर द्रव्यमान</string>
+    <string name="object_info_rigel_description" translation_description="Short description of Rigel">बाण एक नील महादानव तारा है जो कालपुरुष के चरण को चिह्नित करता है। आर्द्रा से अधिक सुदूर होने के उपरान्त भी यह समान रूप से प्रदीप्त प्रतीत होता है।</string>
+    <string name="object_info_rigel_funfact" translation_description="Fun fact about Rigel">बाण लगभग १,२०,००० सूर्यों के प्रकाश के समान चमकता है! यह हमारी दुग्धमेखला के इस क्षेत्र के सर्वाधिक प्रकाशमान तारों में से एक है।</string>
+    <string name="object_info_rigel_distance">~८६० प्रकाश-वर्ष</string>
+    <string name="object_info_rigel_size">~७९ सौर त्रिज्या</string>
+    <string name="object_info_rigel_mass">~२३ सौर द्रव्यमान</string>
+    <string name="object_info_procyon_description" translation_description="Short description of Procyon">प्रश्वा लघुश्वान नक्षत्रमण्डल का एक प्रदीप्त तारा है। यह हमारे समीपवर्ती तारकीय पड़ोसियों में से एक है।</string>
+    <string name="object_info_procyon_funfact" translation_description="Fun fact about Procyon">प्रश्वा का अर्थ है "श्वान से पूर्व", क्योंकि यह रात्रिकालीन आकाश में लुब्धक तारे से ठीक पूर्व उदित होता है!</string>
+    <string name="object_info_procyon_distance">११.४ प्रकाश-वर्ष</string>
+    <string name="object_info_procyon_size">२.० सौर त्रिज्या</string>
+    <string name="object_info_procyon_mass">१.५ सौर द्रव्यमान</string>
+    <string name="object_info_polaris_description" translation_description="Short description of Polaris">ध्रुवतारा आकाश में लगभग स्थिर प्रतीत होता है, जबकि अन्य तारे सम्पूर्ण रात्रि इसके परितः घूर्णन करते प्रतीत होते हैं।</string>
+    <string name="object_info_polaris_funfact" translation_description="Fun fact about Polaris">ध्रुवतारा वास्तव में एक त्रि-तारा प्रणाली है! इसका मुख्य तारा एक महादानव है जो हमारे सूर्य से लगभग २,५०० गुणा अधिक प्रदीप्त है।</string>
+    <string name="object_info_polaris_distance">~४३० प्रकाश-वर्ष</string>
+    <string name="object_info_polaris_size">~४४ सौर त्रिज्या</string>
+    <string name="object_info_polaris_mass">~५.४ सौर द्रव्यमान</string>
+    <string name="object_info_deneb_description" translation_description="Short description of Deneb">हंस-पुच्छ हंस नक्षत्रमण्डल की पुच्छ को चिह्नित करता है। यह अभिजित और श्रवण के साथ ग्रीष्मकालीन त्रिभुज का भाग है।</string>
+    <string name="object_info_deneb_funfact" translation_description="Fun fact about Deneb">हंस-पुच्छ नग्न आँखों से दृश्यमान सुदूरतम तारों में से एक है, जो लगभग २,६०० प्रकाश-वर्ष की दूरी पर स्थित है!</string>
+    <string name="object_info_deneb_distance">~२,६०० प्रकाश-वर्ष</string>
+    <string name="object_info_deneb_size">~२०० सौर त्रिज्या</string>
+    <string name="object_info_deneb_mass">~१९ सौर द्रव्यमान</string>
+    <string name="object_info_arcturus_description" translation_description="Short description of Arcturus">स्वाति उत्तरी गोलार्ध का प्रदीप्ततम तारा है, जो भूतप नक्षत्रमण्डल में स्थित एक नारङ्गी दानव तारा है।</string>
+    <string name="object_info_arcturus_funfact" translation_description="Fun fact about Arcturus">स्वाति अतीव तीव्र गति से अन्तरिक्ष में विचरण कर रहा है और लगभग ४,००० वर्षों में हमारे सौरमण्डल के सर्वाधिक निकट से व्यतीत होगा!</string>
+    <string name="object_info_arcturus_distance">३७ प्रकाश-वर्ष</string>
+    <string name="object_info_arcturus_size">२६ सौर त्रिज्या</string>
+    <string name="object_info_arcturus_mass">१.१ सौर द्रव्यमान</string>
+    <string name="object_info_canopus_description" translation_description="Short description of Canopus">अगस्त्य रात्रिकालीन आकाश का द्वितीय प्रदीप्ततम तारा है। यह मुख्य रूप से दक्षिणी गोलार्ध से दृश्यमान होता है।</string>
+    <string name="object_info_canopus_funfact" translation_description="Fun fact about Canopus">अगस्त्य का उपयोग अन्तरिक्ष यान द्वारा दिशा-निर्देशन हेतु किया जाता है क्योंकि यह अतीव प्रदीप्त है और क्रान्तिवृत्त तल से सुदूर स्थित है!</string>
+    <string name="object_info_canopus_distance">३१० प्रकाश-वर्ष</string>
+    <string name="object_info_canopus_size">७२ सौर त्रिज्या</string>
+    <string name="object_info_canopus_mass">८.० सौर द्रव्यमान</string>
+    <string name="object_info_aldebaran_description" translation_description="Short description of Aldebaran">रोहिणी एक नारङ्गी दानव तारा है जो वृषभ के नेत्र का प्रतिनिधित्व करता है। इसका नाम अरबी भाषा में "अनुगामी" है।</string>
+    <string name="object_info_aldebaran_funfact" translation_description="Fun fact about Aldebaran">रोहिणी हायडेस तारापुञ्ज का भाग प्रतीत होती है परन्तु वास्तव में यह हमसे केवल आधी दूरी पर स्थित है - यह एक खगोलीय दृष्टिभ्रम है!</string>
+    <string name="object_info_aldebaran_distance">६५ प्रकाश-वर्ष</string>
+    <string name="object_info_aldebaran_size">४४ सौर त्रिज्या</string>
+    <string name="object_info_aldebaran_mass">1.2 solar masses</string>
+    <string name="object_info_antares_description" translation_description="Short description of Antares">ज्येष्ठा एक रक्त महादानव तारा है, जो वृश्चिक का हृदय है। रक्त वर्ण के कारण इसे "मङ्गल का प्रतिद्वन्द्वी" कहा जाता है।</string>
+    <string name="object_info_antares_funfact" translation_description="Fun fact about Antares">ज्येष्ठा इतना विशाल है कि यदि इसे हमारे सौरमण्डल में रखा जाए, तो इसकी सतह मङ्गल की कक्षा के पार तक विस्तृत होगी!</string>
+    <string name="object_info_antares_distance">~५५० प्रकाश-वर्ष</string>
+    <string name="object_info_antares_size">~६८० सौर त्रिज्या</string>
+    <string name="object_info_antares_mass">~12 solar masses</string>
+    <string name="object_info_capella_description">ब्रह्महृदय सारथि नक्षत्रमण्डल का प्रदीप्ततम तारा है और रात्रिकालीन आकाश का छठा प्रदीप्ततम तारा है। यह वास्तव में चार तारों की एक प्रणाली है।</string>
+    <string name="object_info_capella_funfact">ब्रह्महृदय का अर्थ लैटिन में "लघु अजा" है। प्राचीन संस्कृतियों में इसे सारथि के स्कन्ध पर विराजमान एक अजा के रूप में देखा जाता था!</string>
+    <string name="object_info_capella_distance">४३ प्रकाश-वर्ष</string>
+    <string name="object_info_capella_size">१२ सौर त्रिज्या</string>
+    <string name="object_info_capella_mass">2.6 solar masses</string>
+    <string name="object_info_altair_description">श्रवण गरुड़ नक्षत्रमण्डल का प्रदीप्ततम तारा है और नग्न आँखों से दृश्यमान निकटतम तारों में से एक है।</string>
+    <string name="object_info_altair_funfact">श्रवण इतनी तीव्र गति से (प्रत्येक ९ घण्टे में एक बार) घूर्णन करता है कि यह अपने ध्रुवों पर स्पष्ट रूप से चपटा है - यह अपनी ऊँचाई से १४% अधिक चौड़ा है!</string>
+    <string name="object_info_altair_distance">१७ प्रकाश-वर्ष</string>
+    <string name="object_info_altair_size">१.८ सौर त्रिज्या</string>
+    <string name="object_info_altair_mass">1.8 solar masses</string>
+    <string name="object_info_spica_description">चित्रा कन्या नक्षत्रमण्डल का प्रदीप्ततम तारा और रात्रिकालीन आकाश के २० प्रदीप्ततम तारों में से एक है। यह एक द्वि-तारा प्रणाली है।</string>
+    <string name="object_info_spica_funfact">चित्रा क्रान्तिवृत्त के इतना निकट है कि यह चन्द्रमा द्वारा ढका जा सकता है। लैटिन में इसका नाम "धान्य-मञ्जरी" है!</string>
+    <string name="object_info_spica_distance">२५० प्रकाश-वर्ष</string>
+    <string name="object_info_spica_size">७.५ सौर त्रिज्या</string>
+    <string name="object_info_spica_mass">11 solar masses</string>
+    <string name="object_info_achernar_description">अग्रनद एरिडानस नदी का प्रदीप्ततम तारा और रात्रिकालीन आकाश का नौवाँ प्रदीप्ततम तारा है।</string>
+    <string name="object_info_achernar_funfact">अग्रनद ज्ञात तारों में सर्वाधिक चपटा है! यह इतनी तीव्र गति से चक्रण करता है कि इसका विषुवतीय व्यास इसके ध्रुवीय व्यास से ५६% अधिक बड़ा है।</string>
+    <string name="object_info_achernar_distance">१३९ प्रकाश-वर्ष</string>
+    <string name="object_info_achernar_size">७.३ सौर त्रिज्या</string>
+    <string name="object_info_achernar_mass">6.7 solar masses</string>
+    <string name="object_info_hadar_description">हदर नरतुरङ्ग का द्वितीय प्रदीप्ततम तारा और रात्रिकालीन आकाश का ११वाँ प्रदीप्ततम तारा है।</string>
+    <string name="object_info_hadar_funfact">हदर और मित्रक को "दक्षिणी सूचक" कहा जाता है - वे त्रिशङ्कु नक्षत्रमण्डल की ओर सङ्केत करते हैं!</string>
+    <string name="object_info_hadar_distance">३९० प्रकाश-वर्ष</string>
+    <string name="object_info_hadar_size">९ सौर त्रिज्या</string>
+    <string name="object_info_hadar_mass">12.8 solar masses</string>
+    <string name="object_info_regulus_description">मघा सिंह नक्षत्रमण्डल का प्रदीप्ततम तारा है और सिंह के हृदय का प्रतिनिधित्व करता है। यह एक बहु-तारा प्रणाली है।</string>
+    <string name="object_info_regulus_funfact">मघा इतनी तीव्र गति से चक्रण करता है कि यह स्वयं को विदीर्ण करने के समीप है! यह मात्र १६ घण्टों में एक घूर्णन पूर्ण करता है।</string>
+    <string name="object_info_regulus_distance">७९ प्रकाश-वर्ष</string>
+    <string name="object_info_regulus_size">४.४ सौर त्रिज्या</string>
+    <string name="object_info_regulus_mass">3.8 solar masses</string>
+    <string name="object_info_acrux_description">त्रिशङ्कु-तारा दक्षिण त्रिशङ्कु का प्रदीप्ततम तारा और आकाश का १३वाँ प्रदीप्ततम तारा है।</string>
+    <string name="object_info_acrux_funfact">त्रिशङ्कु-तारा ऑस्ट्रेलिया, न्यूज़ीलैंड, ब्राज़ील, पापुआ न्यू गिनी और समोआ के ध्वजों पर अंकित है!</string>
+    <string name="object_info_acrux_distance">३२० प्रकाश-वर्ष</string>
+    <string name="object_info_acrux_size">७.८ सौर त्रिज्या</string>
+    <string name="object_info_acrux_mass">18 solar masses</string>
+    <string name="object_info_castor_description">पुनर्वसु मिथुन के यमज तारों में से एक है। यद्यपि यह एक तारा प्रतीत होता है, यह वास्तव में छह तारों की एक प्रणाली है!</string>
+    <string name="object_info_castor_funfact">पुनर्वसु एक षट्-तारा प्रणाली है - द्वि-तारा प्रणालियों के तीन युग्म परस्पर परिक्रमा कर रहे हैं। यह पृथ्वी के निकटतम जटिलतम तारा प्रणालियों में से एक है!</string>
+    <string name="object_info_castor_distance">५१ प्रकाश-वर्ष</string>
+    <string name="object_info_castor_size">२.४ सौर त्रिज्या</string>
+    <string name="object_info_castor_mass">2.8 solar masses</string>
+    <string name="object_info_pollux_description">पुनर्वसु-ब (Pollux) मिथुन के यमज तारों में से अधिक प्रदीप्त है। पुनर्वसु-अ के विपरीत, यह एक एकल नारङ्गी दानव तारा है।</string>
+    <string name="object_info_pollux_funfact">पुनर्वसु-ब के पास एक पुष्ट बहिर्ग्रह है! पुनर्वसु-ब 'ख' एक गैसीय दानव है जो बृहस्पति से कम से कम द्विगुण द्रव्यमान वाला है।</string>
+    <string name="object_info_pollux_distance">३४ प्रकाश-वर्ष</string>
+    <string name="object_info_pollux_size">९.१ सौर त्रिज्या</string>
+    <string name="object_info_pollux_mass">1.9 solar masses</string>
+    <string name="object_info_fomalhaut_description">मीनस्य (Fomalhaut) दक्षिण मीन नक्षत्रमण्डल का प्रदीप्ततम तारा है और शरद् ऋतु के आकाश के प्रदीप्ततम तारों में से एक है।</string>
+    <string name="object_info_fomalhaut_funfact">मीनस्य के पास एक अद्भुत भग्नावशेष चक्र (debris disk) है जिसका किसी अन्य तारे के परितः सर्वप्रथम प्रत्यक्ष चित्रण किया गया था!</string>
+    <string name="object_info_fomalhaut_distance">२५ प्रकाश-वर्ष</string>
+    <string name="object_info_fomalhaut_size">१.८ सौर त्रिज्या</string>
+    <string name="object_info_fomalhaut_mass">1.9 solar masses</string>
+    <string name="object_info_adhara_description">अधारा (Epsilon Canis Majoris) महाश्वान नक्षत्रमण्डल में लुब्धक के पश्चात द्वितीय प्रदीप्ततम तारा है।</string>
+    <string name="object_info_adhara_funfact">लगभग ४७ लाख वर्ष पूर्व, अधारा रात्रिकालीन आकाश का प्रदीप्ततम तारा था, जो वर्तमान लुब्धक से भी अधिक प्रकाशमान था!</string>
+    <string name="object_info_adhara_distance">४३० प्रकाश-वर्ष</string>
+    <string name="object_info_adhara_size">१४ सौर त्रिज्या</string>
+    <string name="object_info_adhara_mass">12.6 solar masses</string>
+    <string name="object_info_shaula_description">शौला (Shaula) वृश्चिक का द्वितीय प्रदीप्ततम तारा है और पूँछ में वृश्चिक के दंश को चिह्नित करता है।</string>
+    <string name="object_info_shaula_funfact">अरबी में शौला का अर्थ "उठी हुई पूँछ" है। यह वास्तव में अतीव समीप स्थित तारों की एक त्रि-तारा प्रणाली है!</string>
+    <string name="object_info_shaula_distance">५७० प्रकाश-वर्ष</string>
+    <string name="object_info_shaula_size">८.८ सौर त्रिज्या</string>
+    <string name="object_info_shaula_mass">10.4 solar masses</string>
+    <string name="object_info_alnilam_description">मृगकाण्ड (Alnilam) कालपुरुष की मेखला (Orion\'s Belt) का मध्य तारा है और हमारी मन्दाकिनी के ज्ञात प्रदीप्ततम तारों में से एक है।</string>
+    <string name="object_info_alnilam_funfact">मृगकाण्ड अपनी शक्तिशाली तारकीय पवन के माध्यम से हमारे सूर्य की तुलना में २० मिलियन गुणा तीव्र गति से द्रव्यमान खो रहा है!</string>
+    <string name="object_info_alnilam_distance">~२,००० प्रकाश-वर्ष</string>
+    <string name="object_info_alnilam_size">४२ सौर त्रिज्या</string>
+    <string name="object_info_alnilam_mass">40 solar masses</string>
+    <string name="object_info_alphard_description">एकल (Alphard) वासुकि (Hydra) नक्षत्रमण्डल का प्रदीप्ततम तारा है, जो आकाश का विशालतम नक्षत्रमण्डल है।</string>
+    <string name="object_info_alphard_funfact">अरबी में एकल का अर्थ "एकाकी" है क्योंकि यह आकाश के एक अन्यथा धुंधले क्षेत्र में अकेला स्थित है!</string>
+    <string name="object_info_alphard_distance">१७७ प्रकाश-वर्ष</string>
+    <string name="object_info_alphard_size">५० सौर त्रिज्या</string>
+    <string name="object_info_alphard_mass">3 solar masses</string>
+    <string name="object_info_mirach_description">मीराच (Mirach) देवयानी नक्षत्रमण्डल में स्थित एक रक्त दानव तारा है, जिसका उपयोग देवयानी मन्दाकिनी को खोजने के मार्गदर्शक के रूप में किया जाता है।</string>
+    <string name="object_info_mirach_funfact">मीराच की छाया (Mirach\'s Ghost) एक लघु मन्दाकिनी (NGC 404) है जो मीराच के अतीव समीप प्रतीत होती है - यह शताब्दियों तक तारे की चकाचौंध में छिपी रही!</string>
+    <string name="object_info_mirach_distance">१९७ प्रकाश-वर्ष</string>
+    <string name="object_info_mirach_size">१०० सौर त्रिज्या</string>
+    <string name="object_info_mirach_mass">3.5 solar masses</string>
+    <string name="object_info_algol_description">मायावती (Algol) ययाति (Perseus) नक्षत्रमण्डल का एक प्रसिद्ध ग्रहणकारी द्वि-तारा है, जिसे प्राचीन काल से "दानव तारा" कहा जाता है।</string>
+    <string name="object_info_algol_funfact">प्रत्येक २.८७ दिनों में, मायावती स्पष्ट रूप से धुंधला हो जाता है क्योंकि इसका कम दीप्तिमान साथी सामने से गुजरता है - प्राचीन खगोलविदों को यह अतीव विचित्र लगता था!</string>
+    <string name="object_info_algol_distance">९० प्रकाश-वर्ष</string>
+    <string name="object_info_algol_size">२.७ सौर त्रिज्या</string>
+    <string name="object_info_algol_mass">3.2 solar masses</string>
+    <string name="object_info_alpha_centauri_description">मित्रक (Alpha Centauri) सूर्य का निकटतम तारा तन्त्र है, जिसमें प्रसीमा मित्रक (Proxima Centauri) सहित तीन तारे सम्मिलित हैं।</string>
+    <string name="object_info_alpha_centauri_funfact">इस तन्त्र के भाग, प्रसीमा मित्रक के पास एक सम्भावित वासयोग्य ग्रह है! प्रसीमा मित्रक 'ख' केवल ४.२ प्रकाश-वर्ष सुदूर स्थित है।</string>
+    <string name="object_info_alpha_centauri_distance">४.३७ प्रकाश-वर्ष</string>
+    <string name="object_info_alpha_centauri_size">१.२ सौर त्रिज्या</string>
+    <string name="object_info_alpha_centauri_mass">1.1 solar masses</string>
+    <string name="object_info_dubhe_description">क्रतु (Dubhe) सप्तर्षि मण्डल के उन दो "सूचक तारों" में से एक है जो ध्रुवतारे की ओर सङ्केत करते हैं।</string>
+    <string name="object_info_dubhe_funfact">सप्तर्षि के अधिकांश तारों के विपरीत, क्रतु और मरीचि (Alkaid) विपरीत दिशा में विचरण कर रहे हैं - ५०,००० वर्षों में यह तारामण्डल भिन्न दिखाई देगा!</string>
+    <string name="object_info_dubhe_distance">१२३ प्रकाश-वर्ष</string>
+    <string name="object_info_dubhe_size">३० सौर त्रिज्या</string>
+    <string name="object_info_dubhe_mass">4.3 solar masses</string>
+    <string name="object_info_alioth_description">अङ्गिरा (Alioth) सप्तर्षि मण्डल का प्रदीप्ततम तारा है और यह इस नक्षत्र-पुञ्ज का सर्वाधिक तेजस्वी पिण्ड है।</string>
+    <string name="object_info_alioth_funfact">अङ्गिरा का चुम्बकीय क्षेत्र अतीव विचित्र है, जिसके कारण इसके धरातल पर विशिष्ट स्थानों पर रासायनिक तत्त्वों का साधारणीकरण हो जाता है!</string>
+    <string name="object_info_alioth_distance">८३ प्रकाश-वर्ष</string>
+    <string name="object_info_alioth_size">४.१ सौर त्रिज्या</string>
+    <string name="object_info_alioth_mass">2.9 solar masses</string>
+    <string name="object_info_hamal_description">हमल (Hamal) मेष नक्षत्रमण्डल का प्रदीप्ततम तारा है और लगभग २,००० वर्ष पूर्व इसका उपयोग वसन्त विषुव को चिह्नित करने हेतु किया जाता था।</string>
+    <string name="object_info_hamal_funfact">वर्ष २०११ में हमल की परिक्रमा करते हुए एक विशाल बहिर्ग्रह की खोज हुई थी, जिसका द्रव्यमान बृहस्पति से कम से कम १.८ गुणा अधिक है!</string>
+    <string name="object_info_hamal_distance">६६ प्रकाश-वर्ष</string>
+    <string name="object_info_hamal_size">१५ सौर त्रिज्या</string>
+    <string name="object_info_hamal_mass">1.5 solar masses</string>
+    <string name="object_info_rasalhague_description">रासलहेग (Rasalhague) सर्पधर (Ophiuchus) नक्षत्रमण्डल का प्रदीप्ततम तारा है, जो आरोग्य से सम्बन्धित नक्षत्र है।</string>
+    <string name="object_info_rasalhague_funfact">रासलहेग एक अतीव तीव्र घूर्णक है - यह इतनी तीव्र गति से चक्रण करता है कि यह स्पष्टतः चपटा हो गया है, और मात्र १८ घण्टों में एक घूर्णन पूर्ण करता है!</string>
+    <string name="object_info_rasalhague_distance">४८.६ प्रकाश-वर्ष</string>
+    <string name="object_info_rasalhague_size">२.५ सौर त्रिज्या</string>
+    <string name="object_info_rasalhague_mass">2.4 solar masses</string>
+    <string name="object_info_denebola_description">देनेबोला (Denebola) सिंह नक्षत्रमण्डल की पुच्छ को चिह्नित करता है। अरबी भाषा में इसके नाम का शाब्दिक अर्थ "सिंह की पुच्छ" है।</string>
+    <string name="object_info_denebola_funfact">देनेबोला के परितः एक धूलि-धूसरित भग्नावशेष चक्र है जो यह सङ्केत करता है कि इसके चारों ओर ग्रहों का निर्माण हो रहा है अथवा क्षुद्रग्रह परस्पर टकरा रहे हैं!</string>
+    <string name="object_info_denebola_distance">३६ प्रकाश-वर्ष</string>
+    <string name="object_info_denebola_size">१.७ सौर त्रिज्या</string>
+    <string name="object_info_denebola_mass">1.8 solar masses</string>
+    <string name="object_info_alpheratz_description">अल्फेरात्ज़ (Alpheratz) देवयानी नक्षत्रमण्डल का प्रदीप्ततम तारा है, यद्यपि पूर्व काल में इसे अश्व (Pegasus) का भाग माना जाता था।</string>
+    <string name="object_info_alpheratz_funfact">अल्फेरात्ज़ का रासायनिक सङ्गठन अत्यन्त असामान्य है, जिसके वायुमण्डल में पारद (mercury) और मैङ्गनीज़ की उच्च सान्द्रता पाई जाती है!</string>
+    <string name="object_info_alpheratz_distance">९७ प्रकाश-वर्ष</string>
+    <string name="object_info_alpheratz_size">२.७ सौर त्रिज्या</string>
+    <string name="object_info_alpheratz_mass">3.6 solar masses</string>
+    <string name="object_info_markab_description">मरकब (Markab) उन चार तारों में से एक है जो अश्व (Pegasus) के विशाल वर्ग का निर्माण करते हैं, जो एक सुलभता से पहचाना जाने वाला नक्षत्र-पुञ्ज है।</string>
+    <string name="object_info_markab_funfact">मरकब एक "परवर्ती बी-प्रकार" का तारा है जो अपने मुख्य अनुक्रम जीवन को पूर्ण कर रहा है और शीघ्र ही एक रक्त दानव तारा बन जाएगा!</string>
+    <string name="object_info_markab_distance">१३३ प्रकाश-वर्ष</string>
+    <string name="object_info_markab_size">४.६ सौर त्रिज्या</string>
+    <string name="object_info_markab_mass">3.5 solar masses</string>
+    <string name="object_info_enif_description">एनिफ (Enif) अश्व नक्षत्रमण्डल का प्रदीप्ततम तारा है और नक्षत्र में उड़ते हुए अश्व की नासिका को चिह्नित करता है।</string>
+    <string name="object_info_enif_funfact">वर्ष १९७२ में, एनिफ में एक नाटकीय प्रदीप्ति की घटना हुई थी, जिससे अल्प समय हेतु इसकी दीप्ति पाँच गुणा बढ़ गई थी!</string>
+    <string name="object_info_enif_distance">६७० प्रकाश-वर्ष</string>
+    <string name="object_info_enif_size">१८५ सौर त्रिज्या</string>
+    <string name="object_info_enif_mass">10.7 solar masses</string>
+    <string name="object_info_scheat_description">शिएट (Scheat) अश्व के विशाल वर्ग में स्थित एक रक्त दानव तारा है, जो अपने गहरे नारङ्गी-रक्त वर्ण हेतु विशिष्ट है।</string>
+    <string name="object_info_scheat_funfact">शिएट एक अर्ध-नियमित चर तारा है, जिसकी दीप्ति सप्ताहों से लेकर महीनों की अवधि में परिवर्तित होती रहती है!</string>
+    <string name="object_info_scheat_distance">१९६ प्रकाश-वर्ष</string>
+    <string name="object_info_scheat_size">११० सौर त्रिज्या</string>
+    <string name="object_info_scheat_mass">2.1 solar masses</string>
+    <string name="object_info_nunki_description">नुन्की (Nunki) धनु नक्षत्रमण्डल का द्वितीय प्रदीप्ततम तारा है और सामान्य प्रचलन में यह प्राचीनतम तारा-नाम है।</string>
+    <string name="object_info_nunki_funfact">नुन्की नाम प्राचीन बेबीलोन से आया है जहाँ यह खगोलीय पिण्ड पर एरिडू नगर का प्रतिनिधित्व करता था!</string>
+    <string name="object_info_nunki_distance">२२८ प्रकाश-वर्ष</string>
+    <string name="object_info_nunki_size">४.५ सौर त्रिज्या</string>
+    <string name="object_info_nunki_mass">7.8 solar masses</string>
+    <string name="object_info_diphda_description">दिफदा (Diphda) तिमि (Cetus) नक्षत्रमण्डल का प्रदीप्ततम तारा है और शरद् ऋतु का एक प्रमुख तारा है।</string>
+    <string name="object_info_diphda_funfact">दिफदा आकाश के एक निर्जन क्षेत्र में एकाकी प्रतीत होता है, जिससे यह नाविकों हेतु अतीव उपयोगी सिद्ध होता है!</string>
+    <string name="object_info_diphda_distance">९६ प्रकाश-वर्ष</string>
+    <string name="object_info_diphda_size">१८ सौर त्रिज्या</string>
+    <string name="object_info_diphda_mass">2.8 solar masses</string>
+    <!-- ==================== MESSIER OBJECTS ==================== -->
+    <!-- Note: Object names (m1, m13, etc.) are defined in celestial_objects.xml -->
+    <!-- M1 - Crab Nebula -->
+    <string name="object_info_m1_description">कर्कट नीहारिका वृषभ राशि में स्थित एक अधिनवतारा अवशेष है, जो वर्ष १०५४ में चीनी खगोलविदों द्वारा अभिलिखित एक तारकीय विस्फोट का परिणाम है।</string>
+    <string name="object_info_m1_funfact">कर्कट नीहारिका के भीतर प्रति सेकण्ड ३० बार घूर्णन करने वाला एक पल्सर निहित है, जो उस विष्फोटित तारे का संकुचित केन्द्र है!</string>
+    <string name="object_info_m1_distance">६,५०० प्रकाश-वर्ष</string>
+    <string name="object_info_m1_size">११ प्रकाश-वर्ष व्यास</string>
+    <!-- M13 - Hercules Cluster -->
+    <string name="object_info_m13_description">म१३ हैयय (Hercules) नक्षत्रमण्डल में स्थित एक अद्भुत गोलतारापुञ्ज है जिसमें लगभग ३,००,००० तारे निहित हैं, यह उत्तरी आकाश के प्रदीप्ततम पुञ्जों में से एक है।</string>
+    <string name="object_info_m13_funfact">वर्ष १९७४ में, परग्रही बुद्धिमत्ता से सम्पर्क करने के प्रयास में अरेसिबो सन्देश को म१३ की ओर प्रेषित किया गया था!</string>
+    <string name="object_info_m13_distance">२२,२०० प्रकाश-वर्ष</string>
+    <string name="object_info_m13_size">१४५ प्रकाश-वर्ष व्यास</string>
+    <!-- M31 - Andromeda Galaxy -->
+    <string name="object_info_m31_description">देवयानी मन्दाकिनी हमारी दुग्धमेखला की निकटतम विशाल सर्पिल मन्दाकिनी है और नग्न आँखों से दृश्यमान सुदूरतम पिण्डों में से एक है।</string>
+    <string name="object_info_m31_funfact">देवयानी मन्दाकिनी ११० कि.मी./से. की गति से हमारी ओर आ रही है और लगभग ४.५ अरब वर्षों में दुग्धमेखला से टकराएगी!</string>
+    <string name="object_info_m31_distance">२५ लाख प्रकाश-वर्ष</string>
+    <string name="object_info_m31_size">२,२०,००० प्रकाश-वर्ष व्यास</string>
+    <string name="object_info_m31_mass">1.5 trillion solar masses</string>
+    <!-- M42 - Orion Nebula -->
+    <string name="object_info_m42_description">मृगशीर्ष नीहारिका नग्न आँखों से दृश्यमान एक विसरित उत्सर्जन नीहारिका है, यह रात्रिकालीन आकाश के सर्वाधिक छायाचित्रित पिण्डों में से एक है।</string>
+    <string name="object_info_m42_funfact">मृगशीर्ष नीहारिका एक तारकीय नर्सरी है जहाँ वर्तमान में नवीन तारों का जन्म हो रहा है। इसके भीतर ७०० से अधिक तारे निर्मित हो रहे हैं!</string>
+    <string name="object_info_m42_distance">१,३४४ प्रकाश-वर्ष</string>
+    <string name="object_info_m42_size">२४ प्रकाश-वर्ष व्यास</string>
+    <!-- M45 - Pleiades -->
+    <string name="object_info_m45_description">कृत्तिका वृषभ राशि में स्थित एक खुला तारापुञ्ज है, जिसे "सप्त भगिनी" के नाम से भी जाना जाता है, यह प्राचीन काल से ही नग्न आँखों से दृश्यमान है।</string>
+    <string name="object_info_m45_funfact">कृत्तिका पृथ्वी के निकटतम तारापुञ्जों में से एक है और लगभग प्रत्येक प्राचीन सभ्यता द्वारा इसे पहचाना गया है!</string>
+    <string name="object_info_m45_distance">४४४ प्रकाश-वर्ष</string>
+    <string name="object_info_m45_size">१७ प्रकाश-वर्ष व्यास</string>
+    <!-- M51 - Whirlpool Galaxy -->
+    <string name="object_info_m51_description">भ्रमिल मन्दाकिनी व्याध-श्वान (Canes Venatici) में स्थित एक भव्य सर्पिल मन्दाकिनी है, जो अपनी सुस्पष्ट सर्पिल भुजाओं और साथी मन्दाकिनी हेतु प्रसिद्ध है।</string>
+    <string name="object_info_m51_funfact">भ्रमिल वह प्रथम मन्दाकिनी थी जिसे सर्पिल संरचना वाली मन्दाकिनी के रूप में पहचाना गया, जिसकी खोज लॉर्ड रॉस ने वर्ष १८४५ में की थी!</string>
+    <string name="object_info_m51_distance">२.३ करोड़ प्रकाश-वर्ष</string>
+    <string name="object_info_m51_size">७६,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M57 - Ring Nebula -->
+    <string name="object_info_m57_description">वलय नीहारिका वीणा (Lyra) में स्थित एक ग्रहीय नीहारिका है, जो एक मरणासन्न सूर्य-सदृश तारे द्वारा उत्सर्जित गैस का दीप्तिमान आवरण है।</string>
+    <string name="object_info_m57_funfact">वलय नीहारिका लगभग २० कि.मी./से. की गति से विस्तृत हो रही है और आगामी १०,००० वर्षों में अन्ततः अन्तरिक्ष में विलीन हो जाएगी!</string>
+    <string name="object_info_m57_distance">२,३०० प्रकाश-वर्ष</string>
+    <string name="object_info_m57_size">१.३ प्रकाश-वर्ष व्यास</string>
+    <!-- M81 - Bode\'s Galaxy -->
+    <string name="object_info_m81_description">म८१ सप्तर्षि मण्डल में स्थित एक भव्य सर्पिल मन्दाकिनी है, जो पृथ्वी से दृश्यमान प्रदीप्ततम मन्दाकिनियों में से एक है।</string>
+    <string name="object_info_m81_funfact">म८१ अपनी निकटवर्ती मन्दाकिनी म८२ के साथ गुरुत्वाकर्षण द्वारा परस्पर क्रिया कर रही है, जिससे म८२ में तीव्र तारा निर्माण सक्रिय हो रहा है!</string>
+    <string name="object_info_m81_distance">१.२ करोड़ प्रकाश-वर्ष</string>
+    <string name="object_info_m81_size">९०,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M82 - Cigar Galaxy -->
+    <string name="object_info_m82_description">सिगार मन्दाकिनी सप्तर्षि मण्डल में स्थित एक स्टारबर्स्ट मन्दाकिनी है, जो अपनी पार्श्व-दशा (edge-on orientation) और तीव्र तारा निर्माण हेतु जानी जाती है।</string>
+    <string name="object_info_m82_funfact">पड़ोसी म८१ के साथ गुरुत्वाकर्षण क्रिया के कारण म८२ हमारी दुग्धमेखला की तुलना में १० गुणा तीव्र गति से तारों का निर्माण कर रही है!</string>
+    <string name="object_info_m82_distance">१.२ करोड़ प्रकाश-वर्ष</string>
+    <string name="object_info_m82_size">३७,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M101 - Pinwheel Galaxy -->
+    <string name="object_info_m101_description">चक्रिका मन्दाकिनी सप्तर्षि मण्डल में स्थित एक सम्मुख-मुखी (face-on) सर्पिल मन्दाकिनी है, जो ज्ञात विशालतम सर्पिल मन्दाकिनियों में से एक है।</string>
+    <string name="object_info_m101_funfact">चक्रिका मन्दाकिनी में १ अरब से अधिक तारे निहित हैं और विगत मन्दाकिनी-अन्तःक्रियाओं के कारण इसकी सर्पिल भुजाएँ असममित हैं!</string>
+    <string name="object_info_m101_distance">२.१ करोड़ प्रकाश-वर्ष</string>
+    <string name="object_info_m101_size">१,७०,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M104 - Sombrero Galaxy -->
+    <string name="object_info_m104_description">सोम्ब्रेरो मन्दाकिनी कन्या राशि में स्थित एक सर्पिल मन्दाकिनी है, जो अपने दीप्तिमान नाभिक, विशाल केन्द्रीय उभार और कृष्ण धूलि-रेखा हेतु प्रसिद्ध है।</string>
+    <string name="object_info_m104_funfact">सोम्ब्रेरो मन्दाकिनी के केन्द्र में एक अति-विशाल कृष्ण विवर स्थित है जिसका द्रव्यमान १ अरब सौर द्रव्यमान होने का अनुमान है!</string>
+    <string name="object_info_m104_distance">३.१ करोड़ प्रकाश-वर्ष</string>
+    <string name="object_info_m104_size">५०,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M8 - Lagoon Nebula -->
+    <string name="object_info_m8_description">कासार नीहारिका (Lagoon Nebula) धनु राशि में स्थित एक विशाल अन्तरतारकीय मेघ है, जो ग्रीष्मकालीन आकाश की प्रदीप्ततम नीहारिकाओं में से एक है।</string>
+    <string name="object_info_m8_funfact">कासार नीहारिका के भीतर 'हर्षेल ३६' स्थित है, जो ज्ञात सर्वाधिक द्रव्यमान वाले और प्रकाशमान तारों में से एक है!</string>
+    <string name="object_info_m8_distance">४,१०० प्रकाश-वर्ष</string>
+    <string name="object_info_m8_size">५५ प्रकाश-वर्ष व्यास</string>
+    <!-- M17 - Omega Nebula -->
+    <string name="object_info_m17_description">ओमेगा नीहारिका (हंस नीहारिका) धनु राशि में स्थित एक तारा-निर्माणी क्षेत्र है, जो प्रदीप्ततम उत्सर्जन नीहारिकाओं में से एक है।</string>
+    <string name="object_info_m17_funfact">ओमेगा नीहारिका के गैस और धूलि के भीतर लगभग ८०० युवा तारों का एक खुला तारापुञ्ज छिपा हुआ है!</string>
+    <string name="object_info_m17_distance">५,५०० प्रकाश-वर्ष</string>
+    <string name="object_info_m17_size">१५ प्रकाश-वर्ष व्यास</string>
+    <!-- M20 - Trifid Nebula -->
+    <string name="object_info_m20_description">त्रि-दल नीहारिका (Trifid Nebula) धनु राशि में स्थित उत्सर्जन, परावर्तन और कृष्ण नीहारिकाओं का सम्मिश्रण है, जो कृष्ण धूलि-मार्गों द्वारा विभाजित है।</string>
+    <string name="object_info_m20_funfact">त्रि-दल एक ही पिण्ड में तीन भिन्न प्रकार की नीहारिकाएँ प्रदर्शित करती है: रक्त उत्सर्जन, नील परावर्तन और कृष्ण अवशोषण!</string>
+    <string name="object_info_m20_distance">५,२०० प्रकाश-वर्ष</string>
+    <string name="object_info_m20_size">२० प्रकाश-वर्ष व्यास</string>
+    <!-- M27 - Dumbbell Nebula -->
+    <string name="object_info_m27_description">डम्बल नीहारिका शृगाल (Vulpecula) नक्षत्रमण्डल में स्थित एक ग्रहीय नीहारिका है, जो आविष्कृत होने वाली सर्वप्रथम ग्रहीय नीहारिका थी।</string>
+    <string name="object_info_m27_funfact">डम्बल नीहारिका की खोज चार्ल्स मेसियर ने वर्ष १७६४ में की थी, जिससे यह विश्व की प्रथम ज्ञात ग्रहीय नीहारिका बनी!</string>
+    <string name="object_info_m27_distance">१,३६० प्रकाश-वर्ष</string>
+    <string name="object_info_m27_size">२.५ प्रकाश-वर्ष व्यास</string>
+    <!-- M33 - Triangulum Galaxy -->
+    <string name="object_info_m33_description">त्रिकोण मन्दाकिनी स्थानीय समूह की तीसरी विशालतम सदस्य है, जो त्रिकोण नक्षत्रमण्डल में दृश्यमान एक सर्पिल मन्दाकिनी है।</string>
+    <string name="object_info_m33_funfact">त्रिकोण मन्दाकिनी एक सुदूर उपग्रह के रूप में देवयानी मन्दाकिनी के साथ गुरुत्वाकर्षण द्वारा आबद्ध हो सकती है!</string>
+    <string name="object_info_m33_distance">२.७ लाख प्रकाश-वर्ष</string>
+    <string name="object_info_m33_size">६०,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M35 - Open Cluster in Gemini -->
+    <string name="object_info_m35_description">म३५ मिथुन राशि में स्थित एक विशाल खुला तारापुञ्ज है, जो अनुकूल परिस्थितियों में नग्न आँखों से दृश्यमान होता है।</string>
+    <string name="object_info_m35_funfact">म३५ में लगभग २०० तारे निहित हैं और यह उसी दृष्टि-क्षेत्र में एक अतीव प्राचीन पुञ्ज 'एन.जी.सी. २१५८' के समीप दिखाई देता है!</string>
+    <string name="object_info_m35_distance">२,८०० प्रकाश-वर्ष</string>
+    <string name="object_info_m35_size">२४ प्रकाश-वर्ष व्यास</string>
+    <!-- M44 - Beehive Cluster -->
+    <string name="object_info_m44_description">प्रजापति-पुञ्ज (Beehive Cluster) कर्क राशि में स्थित एक खुला पुञ्ज है, जो प्राचीन काल से ज्ञात है और नग्न आँखों से दृश्यमान है।</string>
+    <string name="object_info_m44_funfact">प्राचीन खगोलविद् मौसम के पूर्वानुमान हेतु प्रजापति-पुञ्ज की दृश्यता का उपयोग करते थे - यदि यह अदृश्य हो, तो वर्षा का सङ्केत माना जाता था!</string>
+    <string name="object_info_m44_distance">५७७ प्रकाश-वर्ष</string>
+    <string name="object_info_m44_size">१५ प्रकाश-वर्ष व्यास</string>
+    <!-- M78 - Reflection Nebula -->
+    <string name="object_info_m78_description">म७८ आकाश की प्रदीप्ततम विसरित परावर्तन नीहारिका है, जो कालपुरुष की प्रसिद्ध मेखला के तारों के समीप स्थित है।</string>
+    <string name="object_info_m78_funfact">म७८ में लगभग ४५ युवा 'टी टॉरी' चर तारे निहित हैं, जो अतीव युवा तारे हैं और अभी मुख्य अनुक्रम की ओर संकुचित हो रहे हैं!</string>
+    <string name="object_info_m78_distance">१,६०० प्रकाश-वर्ष</string>
+    <string name="object_info_m78_size">४ प्रकाश-वर्ष व्यास</string>
+    <!-- M83 - Southern Pinwheel Galaxy -->
+    <string name="object_info_m83_description">दक्षिणी चक्रिका वासुकि (Hydra) में स्थित एक दण्डयुक्त (barred) सर्पिल मन्दाकिनी है, जो हमारे आकाश की निकटतम प्रदीप्त सर्पिल मन्दाकिनियों में से एक है।</string>
+    <string name="object_info_m83_funfact">म८३ ने छह प्रेक्षित अधिनवतारा (supernovae) उत्पन्न किए हैं, जो किसी भी अन्य मन्दाकिनी से अधिक हैं - यह अधिनवतारा उत्पत्ति का एक कीर्तिमान है!</string>
+    <string name="object_info_m83_distance">१५ मिलियन प्रकाश-वर्ष</string>
+    <string name="object_info_m83_size">५५,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M3 - Globular Cluster -->
+    <string name="object_info_m3_description">म३ आकाश के विशालतम और प्रदीप्ततम गोलतारापुञ्जों में से एक है, जो व्याध-श्वान (Canes Venatici) में स्थित है।</string>
+    <string name="object_info_m3_funfact">म३ में लगभग ५,००,००० तारे निहित हैं और इसकी आयु ११.४ अरब वर्ष होने का अनुमान है!</string>
+    <string name="object_info_m3_distance">३३,९०० प्रकाश-वर्ष</string>
+    <string name="object_info_m3_size">१८० प्रकाश-वर्ष व्यास</string>
+    <!-- M5 - Globular Cluster -->
+    <string name="object_info_m5_description">म५ भुजङ्ग (Serpens) नक्षत्रमण्डल में स्थित एक गोलतारापुञ्ज है, जो लगभग १३ अरब वर्ष की आयु के साथ प्राचीनतम गोलतारापुञ्जों में से एक है।</string>
+    <string name="object_info_m5_funfact">म५ में १,००,००० से अधिक तारे निहित हैं और इसमें किसी भी अन्य गोलतारापुञ्ज की तुलना में ज्ञात चर तारों की संख्या सर्वाधिक है!</string>
+    <string name="object_info_m5_distance">२४,५०० प्रकाश-वर्ष</string>
+    <string name="object_info_m5_size">१६५ प्रकाश-वर्ष व्यास</string>
+    <!-- M15 - Globular Cluster -->
+    <string name="object_info_m15_description">म१५ अश्व (Pegasus) में स्थित एक सघन गोलतारापुञ्ज है, जो अपने केन्द्र में एक ग्रहीय नीहारिका होने के कारण विशिष्ट है - गोलतारापुञ्जों के लिए यह अतीव दुर्लभ है।</string>
+    <string name="object_info_m15_funfact">म१५ के केन्द्र में लगभग ४,००० सौर द्रव्यमान वाला एक कृष्ण विवर निहित हो सकता है, यद्यपि यह अभी भी विवादित है!</string>
+    <string name="object_info_m15_distance">३३,६०० प्रकाश-वर्ष</string>
+    <string name="object_info_m15_size">१७५ प्रकाश-वर्ष व्यास</string>
+    <!-- M22 - Globular Cluster -->
+    <string name="object_info_m22_description">म२२ पृथ्वी के निकटतम और प्रदीप्ततम गोलतारापुञ्जों में से एक है, जो धनु राशि में मन्दाकिनी केन्द्र के समीप स्थित है।</string>
+    <string name="object_info_m22_funfact">म२२ आविष्कृत होने वाले प्रथम गोलतारापुञ्जों में से एक था, जिसे वर्ष १६६५ में अब्राहम इहले द्वारा खोजा गया था!</string>
+    <string name="object_info_m22_distance">१०,६०० प्रकाश-वर्ष</string>
+    <string name="object_info_m22_size">७० प्रकाश-वर्ष व्यास</string>
+    <!-- M4 - Globular Cluster -->
+    <string name="object_info_m4_description">म४ पृथ्वी के निकटतम गोलतारापुञ्जों में से एक है और इसे खोजना अतीव सुलभ है, यह वृश्चिक में ज्येष्ठा (Antares) के समीप स्थित है।</string>
+    <string name="object_info_m4_funfact">म४ में एक श्वेत वामन तारा निहित है जिसकी आयु १३ अरब वर्ष होने का अनुमान है - यह दुग्धमेखला के ज्ञात प्राचीनतम तारों में से एक है!</string>
+    <string name="object_info_m4_distance">७,२०० प्रकाश-वर्ष</string>
+    <string name="object_info_m4_size">७५ प्रकाश-वर्ष व्यास</string>
+    <!-- M7 - Ptolemy Cluster -->
+    <string name="object_info_m7_description">टॉलेमी पुञ्ज वृश्चिक में स्थित एक प्रदीप्त खुला पुञ्ज है, जो नग्न आँखों से दृश्यमान प्रमुख पुञ्जों में से एक है।</string>
+    <string name="object_info_m7_funfact">म७ को सर्वप्रथम वर्ष १३० ईस्वी में टॉलेमी द्वारा अभिलिखित किया गया था और लगभग २,००० वर्षों से इसका प्रेक्षण किया जा रहा है!</string>
+    <string name="object_info_m7_distance">९८० प्रकाश-वर्ष</string>
+    <string name="object_info_m7_size">२५ प्रकाश-वर्ष व्यास</string>
+    <!-- M6 - Butterfly Cluster -->
+    <string name="object_info_m6_description">तितली पुञ्ज (Butterfly Cluster) वृश्चिक में स्थित एक खुला पुञ्ज है, जिसका नाम इसके प्रदीप्ततम तारों की तितली-सदृश संरचना के कारण रखा गया है।</string>
+    <string name="object_info_m6_funfact">म६ लगभग १०० मिलियन वर्ष पुराना है और इसमें ३०० से अधिक तारे निहित हैं, जिनमें नारङ्गी दानव तारा 'बी.एम. स्कोर्पी' भी सम्मिलित है!</string>
+    <string name="object_info_m6_distance">१,६०० प्रकाश-वर्ष</string>
+    <string name="object_info_m6_size">२५ प्रकाश-वर्ष व्यास</string>
+    <!-- M11 - Wild Duck Cluster -->
+    <string name="object_info_m11_description">वनहंस पुञ्ज (Wild Duck Cluster) ढाल (Scutum) नक्षत्रमण्डल में स्थित एक समृद्ध खुला पुञ्ज है, जो ज्ञात सघनतम खुले पुञ्जों में से एक है।</string>
+    <string name="object_info_m11_funfact">म११ में एक लघु क्षेत्र के भीतर लगभग ३,००० तारे संकुचित हैं, जो दूरवीक्षण यन्त्र के माध्यम से एक अद्भुत दृश्य निर्मित करते हैं!</string>
+    <string name="object_info_m11_distance">६,२०० प्रकाश-वर्ष</string>
+    <string name="object_info_m11_size">२० प्रकाश-वर्ष व्यास</string>
+    <!-- M16 - Eagle Nebula -->
+    <string name="object_info_m16_description">गरुड़ नीहारिका भुजङ्ग (Serpens) में स्थित एक तारा-निर्माणी नीहारिका है, जो हबल द्वारा चित्रित 'सृष्टि के स्तम्भों' (Pillars of Creation) हेतु प्रसिद्ध है।</string>
+    <string name="object_info_m16_funfact">म१६ में 'सृष्टि के स्तम्भ' लगभग ५ प्रकाश-वर्ष ऊँचे हैं और समीपवर्ती तारों के विकिरण द्वारा धीरे-धीरे क्षय हो रहे हैं!</string>
+    <string name="object_info_m16_distance">७,००० प्रकाश-वर्ष</string>
+    <string name="object_info_m16_size">७० प्रकाश-वर्ष व्यास</string>
+    <!-- M2 - Globular Cluster -->
+    <string name="object_info_m2_description">म२ ज्ञात विशालतम और समृद्धतम गोलतारापुञ्जों में से एक है, जो कुम्भ राशि में स्थित है।</string>
+    <string name="object_info_m2_funfact">म२ में लगभग १,५०,००० तारे निहित हैं और इसका व्यास १७५ प्रकाश-वर्ष है, जिससे यह विशालतम गोलतारापुञ्जों में से एक बनता है!</string>
+    <string name="object_info_m2_distance">३७,५०० प्रकाश-वर्ष</string>
+    <string name="object_info_m2_size">१७५ प्रकाश-वर्ष व्यास</string>
+    <!-- M10 - Globular Cluster -->
+    <string name="object_info_m10_description">म१० सर्पधर (Ophiuchus) नक्षत्रमण्डल में स्थित एक प्रदीप्त गोलतारापुञ्ज है, जो हमारे सौरमण्डल के निकटतम गोलतारापुञ्जों में से एक है।</string>
+    <string name="object_info_m10_funfact">म१० लगभग ७० कि.मी./से. से अधिक की गति से हमारी ओर आ रहा है और इसके केन्द्र में तारों का सान्द्रण असामान्य रूप से न्यून है!</string>
+    <string name="object_info_m10_distance">१४,३०० प्रकाश-वर्ष</string>
+    <string name="object_info_m10_size">८३ प्रकाश-वर्ष व्यास</string>
+    <!-- M12 - Globular Cluster -->
+    <string name="object_info_m12_description">म१२ सर्पधर में स्थित एक गोलतारापुञ्ज है, जो अपने अपेक्षाकृत शिथिल केन्द्रीय सान्द्रण हेतु विशिष्ट है।</string>
+    <string name="object_info_m12_funfact">अरबों वर्षों में दुग्धमेखला के गुरुत्वाकर्षण खिंचाव के कारण म१२ ने अपने अनेक अल्प-द्रव्यमान वाले तारों को खो दिया है!</string>
+    <string name="object_info_m12_distance">१५,७०० प्रकाश-वर्ष</string>
+    <string name="object_info_m12_size">७५ प्रकाश-वर्ष व्यास</string>
+    <!-- M14 - Globular Cluster -->
+    <string name="object_info_m14_description">म१४ सर्पधर में स्थित एक गोलतारापुञ्ज है जिसमें कई लाख तारे निहित हैं।</string>
+    <string name="object_info_m14_funfact">वर्ष १९३८ में म१४ में एक नवतारा (nova) प्रकट हुआ था, परन्तु इसकी खोज वर्ष १९६४ में तब हुई जब पुरानी छायाचित्रित पट्टिकाओं का परीक्षण किया गया!</string>
+    <string name="object_info_m14_distance">३०,३०० प्रकाश-वर्ष</string>
+    <string name="object_info_m14_size">१०० प्रकाश-वर्ष व्यास</string>
+    <!-- M53 - Globular Cluster -->
+    <string name="object_info_m53_description">म५३ वेणी (Coma Berenices) नक्षत्रमण्डल में स्थित एक गोलतारापुञ्ज है, जो हमारी मन्दाकिनी के सुदूरवर्ती गोलतारापुञ्जों में से एक है।</string>
+    <string name="object_info_m53_funfact">म५३ मन्दाकिनी केन्द्र से सर्वाधिक दूर स्थित गोलतारापुञ्जों में से एक है, जो उससे ६०,००० प्रकाश-वर्ष सुदूर है!</string>
+    <string name="object_info_m53_distance">५८,००० प्रकाश-वर्ष</string>
+    <string name="object_info_m53_size">२२० प्रकाश-वर्ष व्यास</string>
+    <!-- M64 - Black Eye Galaxy -->
+    <string name="object_info_m64_description">कृष्ण-नेत्र मन्दाकिनी (Black Eye Galaxy) वेणी में स्थित एक सर्पिल मन्दाकिनी है, जो अपने नाभिक के परितः अवशोषक धूलि की कृष्ण पट्टी हेतु प्रसिद्ध है।</string>
+    <string name="object_info_m64_funfact">म६४ के बाह्य क्षेत्र इसके आन्तरिक क्षेत्रों के विपरीत दिशा में घूर्णन करते हैं, जो सम्भवतः विगत के मन्दाकिनी विलय का परिणाम है!</string>
+    <string name="object_info_m64_distance">१७ मिलियन प्रकाश-वर्ष</string>
+    <string name="object_info_m64_size">७०,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M65 - Galaxy in Leo -->
+    <string name="object_info_m65_description">म६५ सिंह राशि में स्थित एक सर्पिल मन्दाकिनी है, जो म६६ और एन.जी.सी. ३६२८ के साथ प्रसिद्ध 'सिंह त्रय' (Leo Triplet) का भाग है।</string>
+    <string name="object_info_m65_funfact">सिंह त्रय की मन्दाकिनियाँ गुरुत्वाकर्षण द्वारा परस्पर क्रिया कर रही हैं, जिससे ज्वारीय पुच्छ और विरूपित संरचनाएँ निर्मित हो रही हैं!</string>
+    <string name="object_info_m65_distance">३५ मिलियन प्रकाश-वर्ष</string>
+    <string name="object_info_m65_size">९०,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M66 - Galaxy in Leo -->
+    <string name="object_info_m66_description">म६६ सिंह त्रय की विशालतम सदस्य है, जो असममित सर्पिल भुजाओं वाली एक सर्पिल मन्दाकिनी है।</string>
+    <string name="object_info_m66_funfact">म६६ की असममित आकृति अपने पड़ोसियों म६५ और एन.जी.सी. ३६२८ के साथ गुरुत्वाकर्षण अन्तःक्रिया के कारण है!</string>
+    <string name="object_info_m66_distance">३६ मिलियन प्रकाश-वर्ष</string>
+    <string name="object_info_m66_size">९५,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M74 - Phantom Galaxy -->
+    <string name="object_info_m74_description">छाया मन्दाकिनी (Phantom Galaxy) मीन राशि में स्थित एक सम्मुख-मुखी सर्पिल मन्दाकिनी है, जो अपनी पूर्ण भव्य-सर्पिल संरचना हेतु जानी जाती है।</string>
+    <string name="object_info_m74_funfact">म७४ को अपनी अत्यन्त न्यून सतही दीप्ति के कारण 'छाया मन्दाकिनी' उपनाम दिया गया है, जिससे इसका प्रेक्षण चुनौतीपूर्ण हो जाता है!</string>
+    <string name="object_info_m74_distance">३२ मिलियन प्रकाश-वर्ष</string>
+    <string name="object_info_m74_size">९५,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M77 - Cetus A -->
+    <string name="object_info_m77_description">म७७ तिमि (Cetus) में स्थित एक दण्डयुक्त सर्पिल मन्दाकिनी है जिसमें एक अति-विशाल कृष्ण विवर द्वारा संचालित सक्रिय मन्दाकिनी नाभिक निहित है।</string>
+    <string name="object_info_m77_funfact">म७७ में एक सक्रिय मन्दाकिनी नाभिक है जिसमें हमारे सूर्य के द्रव्यमान से १५ मिलियन गुणा विशाल कृष्ण विवर स्थित है!</string>
+    <string name="object_info_m77_distance">४७ मिलियन प्रकाश-वर्ष</string>
+    <string name="object_info_m77_size">१,२०,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M92 - Globular Cluster -->
+    <string name="object_info_m92_description">म९२ हैयय (Hercules) में स्थित एक प्रदीप्त गोलतारापुञ्ज है, जिसे प्रायः अधिक प्रसिद्ध म१३ की निकटता के कारण अनदेखा कर दिया जाता है।</string>
+    <string name="object_info_m92_funfact">म९२ लगभग १४.२ अरब वर्ष की आयु के साथ प्राचीनतम गोलतारापुञ्जों में से एक है - यह लगभग ब्रह्माण्ड के समान ही प्राचीन है!</string>
+    <string name="object_info_m92_distance">२६,७०० प्रकाश-वर्ष</string>
+    <string name="object_info_m92_size">१०९ प्रकाश-वर्ष व्यास</string>
+    <!-- M94 - Cat\'s Eye Galaxy -->
+    <string name="object_info_m94_description">म९४ व्याध-श्वान (Canes Venatici) में स्थित एक सर्पिल मन्दाकिनी है, जिसमें एक दीप्तिमान आन्तरिक वलय है जहाँ सक्रिय तारा निर्माण हो रहा है।</string>
+    <string name="object_info_m94_funfact">म९४ का आन्तरिक वलय एक 'स्टारबर्स्ट' वलय है जहाँ अतीव उच्च दर पर नवीन तारों का निर्माण हो रहा है!</string>
+    <string name="object_info_m94_distance">१६ मिलियन प्रकाश-वर्ष</string>
+    <string name="object_info_m94_size">५०,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M97 - Owl Nebula -->
+    <string name="object_info_m97_description">उलूक नीहारिका (Owl Nebula) सप्तर्षि मण्डल में स्थित एक ग्रहीय नीहारिका है, जिसका नाम दो कृष्ण बिन्दुओं के कारण उलूक-सदृश प्रतीति पर रखा गया है।</string>
+    <string name="object_info_m97_funfact">म९७ में उलूक के नेत्रों के समान दिखने वाले कृष्ण बिन्दु वास्तव में नीहारिका के त्रि-आयामी कोटर (cavities) हैं, जो हमारी दृष्टि-रेखा के अनुदिश स्थित हैं!</string>
+    <string name="object_info_m97_distance">२,०३० प्रकाश-वर्ष</string>
+    <string name="object_info_m97_size">२ प्रकाश-वर्ष व्यास</string>
+    <!-- M106 - Galaxy in Canes Venatici -->
+    <string name="object_info_m106_description">म१०६ व्याध-श्वान में स्थित एक सर्पिल मन्दाकिनी है, जिसकी असामान्य सर्पिल भुजाएँ इसके केन्द्रीय कृष्ण विवर से निकलने वाली प्रधारों (jets) के कारण हैं।</string>
+    <string name="object_info_m106_funfact">म१०६ के नाभिक में जल-मेज़र (water masers) स्थित हैं, जिससे खगोलविद् इसकी दूरी का अचूक मापन करने में सक्षम होते हैं!</string>
+    <string name="object_info_m106_distance">२३.५ मिलियन प्रकाश-वर्ष</string>
+    <string name="object_info_m106_size">१,३५,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M109 - Barred Spiral Galaxy -->
+    <string name="object_info_m109_description">म१०९ सप्तर्षि मण्डल में स्थित एक दण्डयुक्त सर्पिल मन्दाकिनी है, जो अपने ही नाम वाले मन्दाकिनी समूह की प्रदीप्ततम सदस्य है।</string>
+    <string name="object_info_m109_funfact">म१०९ सप्तर्षि के 'पुलह' (Phecda) तारे के अतीव समीप स्थित है, जिससे इसे खोजना सुलभ हो जाता है!</string>
+    <string name="object_info_m109_distance">८३ मिलियन प्रकाश-वर्ष</string>
+    <string name="object_info_m109_size">१,८०,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M110 - Satellite of Andromeda -->
+    <string name="object_info_m110_description">म११० एक वामन दीर्घवृत्तीय मन्दाकिनी है और देवयानी मन्दाकिनी की उपग्रह है, यह मेसियर सूची में सम्मिलित अन्तिम पिण्ड है।</string>
+    <string name="object_info_m110_funfact">म११० का प्रेक्षण वास्तव में मेसियर ने वर्ष १७७३ में ही किया था, परन्तु इसे वर्ष १९६६ तक उनकी सूची में सम्मिलित नहीं किया गया था!</string>
+    <string name="object_info_m110_distance">२.७ मिलियन प्रकाश-वर्ष</string>
+    <string name="object_info_m110_size">१७,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M32 - Satellite of Andromeda -->
+    <string name="object_info_m32_description">म३२ एक सघन वामन दीर्घवृत्तीय मन्दाकिनी है और देवयानी मन्दाकिनी की निकटवर्ती उपग्रह है।</string>
+    <string name="object_info_m32_funfact">म३२ आविष्कृत होने वाली सर्वप्रथम दीर्घवृत्तीय मन्दाकिनी थी और सम्भवतः यह पूर्व में एक विशाल सर्पिल मन्दाकिनी थी जिसका देवयानी द्वारा विखण्डन कर दिया गया!</string>
+    <string name="object_info_m32_distance">२.५ मिलियन प्रकाश-वर्ष</string>
+    <string name="object_info_m32_size">६,५०० प्रकाश-वर्ष व्यास</string>
+    <!-- M49 - Elliptical Galaxy -->
+    <string name="object_info_m49_description">म४९ कन्या राशि में स्थित एक विशाल दीर्घवृत्तीय मन्दाकिनी है, जो कन्या मन्दाकिनी पुञ्ज की प्रदीप्ततम सदस्य है।</string>
+    <string name="object_info_m49_funfact">म४९ कन्या मन्दाकिनी पुञ्ज की खोजी गई प्रथम सदस्य थी और इसमें लगभग ६,००० गोलतारापुञ्ज निहित हैं!</string>
+    <string name="object_info_m49_distance">५५ मिलियन प्रकाश-वर्ष</string>
+    <string name="object_info_m49_size">१,६०,००० प्रकाश-वर्ष व्यास</string>
+    <!-- M87 - Virgo A -->
+    <string name="object_info_m87_description">म८७ कन्या राशि में स्थित एक अति-विशाल दीर्घवृत्तीय मन्दाकिनी है, जो स्थानीय ब्रह्माण्ड की सर्वाधिक द्रव्यमान वाली मन्दाकिनियों में से एक है।</string>
+    <string name="object_info_m87_funfact">म८७ का केन्द्रीय कृष्ण विवर वर्ष २०१९ में इवेंट होराइजन टेलीस्कोप द्वारा चित्रित प्रथम विवर था - इसका द्रव्यमान ६.५ अरब सौर द्रव्यमान है!</string>
+    <string name="object_info_m87_distance">५३ मिलियन प्रकाश-वर्ष</string>
+    <string name="object_info_m87_size">२,४०,००० प्रकाश-वर्ष व्यास</string>
+    <string name="object_info_m87_mass">2.4 trillion solar masses</string>
+    <!-- ==================== CONSTELLATIONS ==================== -->
+    <!-- Note: Constellation names are defined in celestial_objects.xml -->
+    <!-- Orion -->
+    <string name="object_info_orion_description">कालपुरुष (Orion) सर्वाधिक पहचाने जाने वाले नक्षत्रमण्डलों में से एक है, जो अपने तीन विशिष्ट तारों की मेखला के साथ दोनों गोलार्धों से दृश्यमान है।</string>
+    <string name="object_info_orion_funfact">कालपुरुष की मेखला एक दिशा में व्याध (Sirius) और दूसरी दिशा में रोहिणी (Aldebaran) की ओर सङ्केत करती है!</string>
+    <string name="object_info_orion_size">५९४ वर्ग अंश</string>
+    <!-- Ursa Major -->
+    <string name="object_info_ursa_major_description">सप्तर्षि-मण्डल (Ursa Major) में 'सप्तर्षि' नक्षत्र-पुञ्ज निहित है, जो उत्तरी आकाश के सर्वाधिक पहचाने जाने वाले तारा प्रतिरूपों में से एक है।</string>
+    <string name="object_info_ursa_major_funfact">सप्तर्षि पुञ्ज के पाँच तारे भौतिक रूप से परस्पर सम्बद्ध हैं, जो अन्तरिक्ष में 'सप्तर्षि गतिमान समूह' के रूप में एक साथ विचरण करते हैं!</string>
+    <string name="object_info_ursa_major_size">१,२८० वर्ग अंश</string>
+    <!-- Ursa Minor -->
+    <string name="object_info_ursa_minor_description">लघु-सप्तर्षि (Ursa Minor) में लघु-पुञ्ज और ध्रुवतारा निहित हैं, जो वर्तमान में पृथ्वी के खगोलीय उत्तरी ध्रुव को चिह्नित करता है।</string>
+    <string name="object_info_ursa_minor_funfact">अक्षीय अयनन के कारण, ध्रुवतारा सदैव उत्तर का तारा नहीं रहेगा - १४,००० वर्षों में अभिजित (Vega) इसका स्थान ग्रहण करेगा!</string>
+    <string name="object_info_ursa_minor_size">२५६ वर्ग अंश</string>
+    <!-- Cassiopeia -->
+    <string name="object_info_cassiopeia_description">शर्मिष्ठा (Cassiopeia) उत्तरी आकाश में एक विशिष्ट 'W' आकार वाला नक्षत्रमण्डल है, जिसका नाम पौराणिक कथा की एक रानी के नाम पर रखा गया है।</string>
+    <string name="object_info_cassiopeia_funfact">वर्ष १५७२ का टाइको ब्राहे का अधिनवतारा शर्मिष्ठा में ही प्रकट हुआ था, जिसने यह सिद्ध करने में सहायता की कि आकाश परिवर्तनशील है!</string>
+    <string name="object_info_cassiopeia_size">५९८ वर्ग अंश</string>
+    <!-- Scorpius -->
+    <string name="object_info_scorpius_description">वृश्चिक एक प्रमुख राशि नक्षत्रमण्डल है जिसकी पूँछ विशिष्ट रूप से वक्र है, जिसमें रक्त महादानव ज्येष्ठा (Antares) का प्रभुत्व है।</string>
+    <string name="object_info_scorpius_funfact">पौराणिक कथाओं में, वृश्चिक को आकाश में कालपुरुष (Orion) के विपरीत स्थान दिया गया था ताकि शिकारी को पुनः कभी दंश न झेलना पड़े!</string>
+    <string name="object_info_scorpius_size">४९७ वर्ग अंश</string>
+    <!-- Leo -->
+    <string name="object_info_leo_description">सिंह राशि नक्षत्रमण्डल के हृदय में मघा (Regulus) तारा और विशिष्ट 'हसिया' रूपी नक्षत्र-पुञ्ज स्थित है।</string>
+    <string name="object_info_leo_funfact">नवम्बर में होने वाली सिंह-उल्का वृष्टि सिंह राशि से ही विकरित होती प्रतीत होती है और अद्भुत उल्का वृष्टि उत्पन्न कर सकती है!</string>
+    <string name="object_info_leo_size">९४७ वर्ग अंश</string>
+    <!-- Gemini -->
+    <string name="object_info_gemini_description">मिथुन राशि में प्रदीप्त तारे पुनर्वसु (Castor) और तिष्य (Pollux) स्थित हैं, जो पौराणिक यमज भाइयों का प्रतिनिधित्व करते हैं।</string>
+    <string name="object_info_gemini_funfact">यमज कहे जाने के उपरान्त भी, पुनर्वसु वास्तव में छह तारों का समूह है और तिष्य एक नारङ्गी दानव है - वे परस्पर किञ्चित भी समान नहीं हैं!</string>
+    <string name="object_info_gemini_size">५१४ वर्ग अंश</string>
+    <!-- Taurus -->
+    <string name="object_info_taurus_description">वृषभ राशि नक्षत्रमण्डल में कृत्तिका (Pleiades) और हायडेस तारापुञ्ज, तथा प्रदीप्त तारा रोहिणी (Aldebaran) स्थित हैं।</string>
+    <string name="object_info_taurus_funfact">वृषभ में स्थित कर्कट नीहारिका उस अधिनवतारा का अवशेष है जिसे वर्ष १०५४ ईस्वी में चीनी खगोलविदों ने देखा और अभिलिखित किया था!</string>
+    <string name="object_info_taurus_size">७९७ वर्ग अंश</string>
+    <!-- Virgo -->
+    <string name="object_info_virgo_description">कन्या द्वितीय विशालतम नक्षत्रमण्डल और एक राशि है, जिसमें २,००० से अधिक मन्दाकिनियों वाला 'कन्या पुञ्ज' निहित है।</string>
+    <string name="object_info_virgo_funfact">कन्या पुञ्ज उस 'कन्या महापुञ्ज' का हृदय है, जिसमें हमारी अपनी दुग्धमेखला मन्दाकिनी भी सम्मिलित है!</string>
+    <string name="object_info_virgo_size">१,२९४ वर्ग अंश</string>
+    <!-- Aquarius -->
+    <string name="object_info_aquarius_description">कुम्भ राशि आकाश के उस क्षेत्र में स्थित है जिसे प्रायः 'समुद्र' कहा जाता है, जो जल-सम्बन्धित नक्षत्रमण्डलों से घिरा हुआ है।</string>
+    <string name="object_info_aquarius_funfact">कुम्भ में हेलिक्स नीहारिका स्थित है, जो पृथ्वी से केवल ७०० प्रकाश-वर्ष सुदूर स्थित निकटतम ग्रहीय नीहारिकाओं में से एक है!</string>
+    <string name="object_info_aquarius_size">९८० वर्ग अंश</string>
+    <!-- Pisces -->
+    <string name="object_info_pisces_description">मीन एक विशाल राशि नक्षत्रमण्डल है जो परस्पर सम्बद्ध दो मत्स्यों का प्रतिनिधित्व करता है, जो वसन्त विषुव बिन्दु को चिह्नित करता है।</string>
+    <string name="object_info_pisces_funfact">वसन्त विषुव (वसन्त का प्रथम दिवस) वर्तमान में मीन में स्थित है और २,००० वर्षों से धीरे-धीरे इसके मध्य से विचरण कर रहा है!</string>
+    <string name="object_info_pisces_size">८८९ वर्ग अंश</string>
+    <!-- Aries -->
+    <string name="object_info_aries_description">मेष राशि नक्षत्रमण्डल प्राचीन काल में वसन्त विषुव का स्थान था, जिससे "मेष का प्रथम बिन्दु" वाक्यांश की उत्पत्ति हुई।</string>
+    <string name="object_info_aries_funfact">यद्यपि वसन्त विषुव लगभग २,००० वर्ष पूर्व मीन में स्थानान्तरित हो गया था, हम अभी भी इसे मेष का प्रथम बिन्दु ही कहते हैं!</string>
+    <string name="object_info_aries_size">४४१ वर्ग अंश</string>
+    <!-- Cancer -->
+    <string name="object_info_cancer_description">कर्क मन्दतम राशि नक्षत्रमण्डल है परन्तु इसमें नग्न आँखों से दृश्यमान सुप्रसिद्ध प्रजापति-पुञ्ज (M44) निहित है।</string>
+    <string name="object_info_cancer_funfact">कर्क रेखा का नाम तब रखा गया था जब ग्रीष्म संक्रान्ति के समय सूर्य कर्क में था, यद्यपि अब यह वृषभ में होता है!</string>
+    <string name="object_info_cancer_size">५०६ वर्ग अंश</string>
+    <!-- Capricornus -->
+    <string name="object_info_capricornus_description">मकर एक प्राचीन राशि नक्षत्रमण्डल है जो एक पौराणिक जीव को चित्रित करता है जो अर्ध-अजा और अर्ध-मत्स्य है।</string>
+    <string name="object_info_capricornus_funfact">मकर राशि सर्वाधिक प्राचीन नक्षत्रमण्डलों में से एक है, जो ३,००० वर्ष पूर्व के बेबीलोन तारा-सूची में भी अंकित है!</string>
+    <string name="object_info_capricornus_size">४१४ वर्ग अंश</string>
+    <!-- Sagittarius -->
+    <string name="object_info_sagittarius_description">धनु राशि हमारी दुग्धमेखला मन्दाकिनी के केन्द्र की ओर सङ्केत करती है, जिससे यह नीहारिकाओं और तारापुञ्जों से समृद्ध है।</string>
+    <string name="object_info_sagittarius_funfact">जब आप धनु की ओर देखते हैं, तो आप 'धनु-ए*' (Sagittarius A*) की ओर देख रहे होते हैं, जो हमारी मन्दाकिनी के केन्द्र में स्थित अति-विशाल कृष्ण विवर है!</string>
+    <string name="object_info_sagittarius_size">८६७ वर्ग अंश</string>
+    <!-- Libra -->
+    <string name="object_info_libra_description">तुला एकमात्र राशि नक्षत्रमण्डल है जो किसी अचेतन वस्तु का प्रतिनिधित्व करता है, जिसे पूर्व में वृश्चिक का भाग माना जाता था।</string>
+    <string name="object_info_libra_funfact">तुला के मुख्य तारों को 'न्याय के तराजू' बनने से पूर्व 'वृश्चिक के पञ्जे' के रूप में जाना जाता था!</string>
+    <string name="object_info_libra_size">५३८ वर्ग अंश</string>
+    <!-- Cygnus -->
+    <string name="object_info_cygnus_description">हंस (Cygnus) मन्दाकिनी के अनुदिश उड़ान भरता है, जिसमें 'उत्तरी क्रूस' नक्षत्र-पुञ्ज और प्रदीप्त तारा हंस-पुच्छ (Deneb) स्थित हैं।</string>
+    <string name="object_info_cygnus_funfact">इस नक्षत्रमण्डल में स्थित 'सिग्नस एक्स-१' प्रथम सर्वमान्य कृष्ण विवर था, जिसे १९७० के दशक के आरम्भ में पहचाना गया था!</string>
+    <string name="object_info_cygnus_size">८०४ वर्ग अंश</string>
+    <!-- Lyra -->
+    <string name="object_info_lyra_description">वीणा (Lyra) एक लघु परन्तु प्रमुख नक्षत्रमण्डल है जिसमें अभिजित (Vega) स्थित है, जो रात्रिकालीन आकाश का पाँचवाँ प्रदीप्ततम तारा है।</string>
+    <string name="object_info_lyra_funfact">अभिजित लगभग १२,००० ईसा पूर्व ध्रुवतारा था और पृथ्वी के अयनन के कारण पुनः १२,००० वर्षों में ध्रुवतारा बनेगा!</string>
+    <string name="object_info_lyra_size">२८६ वर्ग अंश</string>
+    <!-- Aquila -->
+    <string name="object_info_aquila_description">गरुड़ (Aquila) खगोलीय विषुवत रेखा पर स्थित एक नक्षत्रमण्डल है, जिसके केन्द्र में प्रदीप्त तारा श्रवण (Altair) स्थित है।</string>
+    <string name="object_info_aquila_funfact">गरुड़ मण्डल में स्थित श्रवण ज्ञात तारों में तीव्रतम घूर्णन करने वाले तारों में से एक है, जो अपने विषुवत पर उभार उत्पन्न करता है!</string>
+    <string name="object_info_aquila_size">६५२ वर्ग अंश</string>
+    <!-- Pegasus -->
+    <string name="object_info_pegasus_description">अश्व (Pegasus) एक विशाल नक्षत्रमण्डल है जिसमें 'पेगासस का विशाल वर्ग' निहित है, जो शरद् ऋतु का एक प्रमुख नक्षत्र-पुञ्ज है।</string>
+    <string name="object_info_pegasus_funfact">१९९५ में इस नक्षत्रमण्डल में आविष्कृत '५१ पेगासी-बी', सूर्य-सदृश तारे की परिक्रमा करने वाला प्रथम बहिर्ग्रह था!</string>
+    <string name="object_info_pegasus_size">१,१२१ वर्ग अंश</string>
+    <!-- Andromeda -->
+    <string name="object_info_andromeda_description">देवयानी (Andromeda) नक्षत्रमण्डल में देवयानी मन्दाकिनी (M31) स्थित है, जो हमारी दुग्धमेखला की निकटतम विशाल सर्पिल मन्दाकिनी है।</string>
+    <string name="object_info_andromeda_funfact">देवयानी मन्दाकिनी ११० कि.मी./से. की गति से हमारी ओर आ रही है और लगभग ४.५ अरब वर्षों में दुग्धमेखला में विलीन हो जाएगी!</string>
+    <string name="object_info_andromeda_size">७२२ वर्ग अंश</string>
+    <!-- Perseus -->
+    <string name="object_info_perseus_description">ययाति (Perseus) प्रसिद्ध चर तारे मायावती (Algol) और 'द्वि-तारापुञ्ज' का घर है, जो खुले तारापुञ्जों का एक अद्भुत युग्म है।</string>
+    <string name="object_info_perseus_funfact">मायावती (दानव तारा) को प्राचीन काल में अशुभ माना जाता था क्योंकि यह प्रत्येक २.८७ दिनों में रहस्यमय ढंग से धुंधला हो जाता है!</string>
+    <string name="object_info_perseus_size">६१५ वर्ग अंश</string>
+    <!-- Centaurus -->
+    <string name="object_info_centaurus_description">नरतुरङ्ग (Centaurus) एक विशाल दक्षिणी नक्षत्रमण्डल है जिसमें मित्रक (Alpha Centauri) स्थित है, जो सूर्य का निकटतम तारा तन्त्र है।</string>
+    <string name="object_info_centaurus_funfact">नरतुरङ्ग मण्डल में स्थित प्रसीमा मित्रक (Proxima Centauri) मात्र ४.२४ प्रकाश-वर्ष सुदूर है, जिससे यह हमारे सौरमण्डल का निकटतम तारा है!</string>
+    <string name="object_info_centaurus_size">१,०६० वर्ग अंश</string>
+    <!-- Crux -->
+    <string name="object_info_crux_description">त्रिशङ्कु (Crux) लघुतम नक्षत्रमण्डल है परन्तु सर्वाधिक विशिष्ट है, जिसका उपयोग दक्षिणी गोलार्ध में दिशा-निर्देशन हेतु किया जाता है।</string>
+    <string name="object_info_crux_funfact">लघुतम नक्षत्रमण्डल होने के उपरान्त भी, त्रिशङ्कु में प्रति इकाई क्षेत्र में किसी भी अन्य नक्षत्रमण्डल की तुलना में अधिक प्रदीप्त तारे हैं!</string>
+    <string name="object_info_crux_size">६८ वर्ग अंश</string>
+    <!-- Canis Major -->
+    <string name="object_info_canis_major_description">महाश्वान (Canis Major) आकाश में कालपुरुष का अनुगमन करता है और इसमें लुब्धक (Sirius) स्थित है, जो पृथ्वी से दृश्यमान प्रदीप्ततम तारा है।</string>
+    <string name="object_info_canis_major_funfact">प्राचीन मिस्रवासियों ने अपना पञ्चाङ्ग लुब्धक के उदय पर आधारित किया था, जो नील नदी की वार्षिक बाढ़ के समय के अनुरूप था!</string>
+    <string name="object_info_canis_major_size">३८० वर्ग अंश</string>
+    <!-- Canis Minor -->
+    <string name="object_info_canis_minor_description">लघुश्वान (Canis Minor) एक लघु नक्षत्रमण्डल है जो प्रश्वा (Procyon) हेतु उल्लेखनीय है, जो आकाश का आठवाँ प्रदीप्ततम तारा है।</string>
+    <string name="object_info_canis_minor_funfact">प्रश्वा का अर्थ ग्रीक में 'श्वान से पूर्व' है क्योंकि यह प्रत्येक रात्रि लुब्धक (श्वान तारा) से ठीक पूर्व उदित होता है!</string>
+    <string name="object_info_canis_minor_size">१८३ वर्ग अंश</string>
+    <!-- Cepheus -->
+    <string name="object_info_cepheus_description">वृषपर्व (Cepheus) उत्तरी आकाश का एक नक्षत्रमण्डल है जिसके तारों में 'डेल्टा सेफेई' सम्मिलित है, जो सेफिड चर तारों का आद्यरूप है।</string>
+    <string name="object_info_cepheus_funfact">हेनरिएटा लीविट द्वारा खोजी गई सेफिड चर राशियों ने खगोलीय दूरियों के मापन को सम्भव बनाकर खगोल विज्ञान में क्रान्ति ला दी थी!</string>
+    <string name="object_info_cepheus_size">५८८ वर्ग अंश</string>
+    <!-- Draco -->
+    <string name="object_info_draco_description">कालिय (Draco) एक दीर्घ और वक्राकार नक्षत्रमण्डल है जो सुदूर उत्तरी आकाश में लघु-सप्तर्षि के परितः कुण्डल मारता है।</string>
+    <string name="object_info_draco_funfact">जब ५,००० वर्ष पूर्व मिस्र के पिरामिडों का निर्माण हुआ था, तब कालिय मण्डल का 'थुबन' तारा ही ध्रुवतारा था!</string>
+    <string name="object_info_draco_size">१,०८३ वर्ग अंश</string>
+    <!-- Hercules -->
+    <string name="object_info_hercules_description">हैयय (Hercules) एक विशाल नक्षत्रमण्डल है जिसमें सुप्रसिद्ध गोलतारापुञ्ज म१३ निहित है।</string>
+    <string name="object_info_hercules_funfact">हमारा सौरमण्डल हैयय मण्डल में स्थित 'सौर शीर्षबिन्दु' नामक बिन्दु की ओर लगभग २० कि.मी./से. की गति से बढ़ रहा है!</string>
+    <string name="object_info_hercules_size">१,२२५ वर्ग अंश</string>
+    <!-- Ophiuchus -->
+    <string name="object_info_ophiuchus_description">सर्पधर (Ophiuchus) क्रान्तिवृत्त पर स्थित है, किन्तु यह राशि चक्र का भाग नहीं है; इसे इसके द्वारा पकड़े गए सर्प द्वारा विभाजित किया गया है।</string>
+    <string name="object_info_ophiuchus_funfact">सूर्य वृश्चिक की तुलना में सर्पधर में अधिक समय व्यतीत करता है, फिर भी सर्पधर को राशि चक्र का चिह्न नहीं माना जाता!</string>
+    <string name="object_info_ophiuchus_size">९४८ वर्ग अंश</string>
+    <!-- Bootes -->
+    <string name="object_info_bootes_description">भूतप (Bootes) नक्षत्रमण्डल में स्वाति (Arcturus) स्थित है, जो रात्रिकालीन आकाश का चतुर्थ प्रदीप्ततम तारा है।</string>
+    <string name="object_info_bootes_funfact">सप्तर्षि के हत्थे के चाप का अनुसरण करते हुए स्वाति तक पहुँचें - यह दिशा-निर्देशन की सर्वाधिक प्रसिद्ध विधियों में से एक है!</string>
+    <string name="object_info_bootes_size">९०७ वर्ग अंश</string>
+    <!-- Corona Borealis -->
+    <string name="object_info_corona_borealis_description">उत्तरी मुकुट (Corona Borealis) एक लघु अर्धवृत्ताकार नक्षत्रमण्डल है जो पौराणिक कथाओं के एक मुकुट का प्रतिनिधित्व करता है।</string>
+    <string name="object_info_corona_borealis_funfact">टी-कोरोना बोरेलिस एक आवर्ती नवतारा है जो प्रत्येक ८० वर्षों में विस्पोटित होता है - शीघ्र ही एक और विस्र्फोट सम्भावित है!</string>
+    <string name="object_info_corona_borealis_size">१७९ वर्ग अंश</string>
+    <!-- Corvus -->
+    <string name="object_info_corvus_description">हस्त (Corvus) कन्या राशि के दक्षिण में स्थित एक लघु चतुर्भुज नक्षत्रमण्डल है।</string>
+    <string name="object_info_corvus_funfact">हस्त मण्डल के चार मुख्य तारे एक विशिष्ट पाल (sail) का आकार बनाते हैं जिसे वसन्त के आकाश में खोजना सुलभ है!</string>
+    <string name="object_info_corvus_size">१८४ वर्ग अंश</string>
+    <!-- Auriga -->
+    <string name="object_info_auriga_description">सारथि (Auriga) उत्तरी आकाश का नक्षत्रमण्डल है जिसमें षष्ठ प्रदीप्ततम तारा ब्रह्महृदय और कई खुले तारापुञ्ज स्थित हैं।</string>
+    <string name="object_info_auriga_funfact">एप्सिलॉन ऑरिगे ज्ञात तारों में विचित्रतम है, जो एक रहस्यमय कृष्ण चक्र के कारण प्रत्येक २७ वर्षों में दो वर्ष हेतु धुंधला हो जाता है!</string>
+    <string name="object_info_auriga_size">६५७ वर्ग अंश</string>
+    <!-- Eridanus -->
+    <string name="object_info_eridanus_description">अग्रनद (Eridanus) छठा विशालतम नक्षत्रमण्डल है, जो कालपुरुष के समीप से सुदूर दक्षिणी आकाश तक वक्राकार विस्तृत है।</string>
+    <string name="object_info_eridanus_funfact">अग्रनद के अन्त में स्थित 'अग्रनद तारा' ज्ञात तारों में सर्वाधिक चपटा है, जो तीव्र घूर्णन के कारण अपने विषुवत पर ५६% अधिक चौड़ा है!</string>
+    <string name="object_info_eridanus_size">१,१३८ वर्ग अंश</string>
+    <!-- Lepus -->
+    <string name="object_info_lepus_description">शशक (Lepus) कालपुरुष के चरणों के नीचे स्थित एक लघु परन्तु विशिष्ट नक्षत्रमण्डल है।</string>
+    <string name="object_info_lepus_funfact">पौराणिक कथाओं के अनुसार, कालपुरुष को खरगोशों का शिकार प्रिय था, इसलिए आकाश में एक शशक उसके चरणों के नीचे स्थित है!</string>
+    <string name="object_info_lepus_size">२९० वर्ग अंश</string>
+    <!-- Monoceros -->
+    <string name="object_info_monoceros_description">एकशृङ्ग (Monoceros) शीतकालीन दुग्धमेखला में स्थित एक धुंधला नक्षत्रमण्डल है, जो नीहारिकाओं और तारापुञ्जों से समृद्ध है।</string>
+    <string name="object_info_monoceros_funfact">एकशृङ्ग मण्डल में स्थित 'गुलाब नीहारिका' एक विशाल तारा-निर्माणी क्षेत्र है जो एक खगोलीय गुलाब के समान प्रतीत होता है!</string>
+    <string name="object_info_monoceros_size">४८२ वर्ग अंश</string>
+    <!-- Hydra -->
+    <string name="object_info_hydra_description">वासुकि (Hydra) आकाश का विशालतम नक्षत्रमण्डल है, जो पौराणिक जल-सर्प का प्रतिनिधित्व करता है।</string>
+    <string name="object_info_hydra_funfact">वासुकि आकाश के १०० अंशों से अधिक क्षेत्र में फैला हुआ है - जो सम्पूर्ण खगोलीय परिधि के एक-चौथाई से भी अधिक है!</string>
+    <string name="object_info_hydra_size">१,३०३ वर्ग अंश</string>
+    <!-- Carina -->
+    <string name="object_info_carina_description">नौतल (Carina) विशाल 'अर्गो नेविस' नक्षत्रमण्डल का भाग था, जिसमें दीप्तिमान तारा अगस्त्य स्थित है।</string>
+    <string name="object_info_carina_funfact">नौतल (Carina) में स्थित 'एटा कैरिनी' ज्ञात सर्वाधिक प्रकाशमान तारों में से एक है और यह हमारे जीवनकाल में ही अधिनवतारा बनकर विष्फोटित हो सकता है!</string>
+    <string name="object_info_carina_size">४९४ वर्ग अंश</string>
+    <!-- Vela -->
+    <string name="object_info_vela_description">पाल (Vela) पूर्व में विशाल 'अर्गो नेविस' पोत का भाग था, जो दुग्धमेखला के एक समृद्ध क्षेत्र में स्थित है।</string>
+    <string name="object_info_vela_funfact">वेला पल्सर आकाश का प्रदीप्ततम पल्सर है और यह ११,००० वर्ष पूर्व विष्फोटित हुए एक अधिनवतारा का अवशेष है!</string>
+    <string name="object_info_vela_size">५०० वर्ग अंश</string>
+    <!-- Puppis -->
+    <string name="object_info_puppis_description">पश्च-पोत (Puppis) अर्गो नेविस पोत के पिछले भाग का प्रतिनिधित्व करता है, जो दुग्धमेखला के अनुदिश खुले तारापुञ्जों से समृद्ध है।</string>
+    <string name="object_info_puppis_funfact">पश्च-पोत में म४७ स्थित है, जो नग्न आँखों से दृश्यमान एक खुला पुञ्ज है जो सूचीकरण की त्रुटि के कारण २०० वर्षों तक "लुप्त" रहा था!</string>
+    <string name="object_info_puppis_size">६७३ वर्ग अंश</string>
+    <!-- Cetus -->
+    <string name="object_info_cetus_description">तिमि (Cetus) एक विशाल नक्षत्रमण्डल है जिसमें 'मीरा' स्थित है, जो आविष्कृत होने वाली सर्वप्रथम चर राशि (variable star) थी।</string>
+    <string name="object_info_cetus_funfact">तिमि मण्डल की मीरा ११ महीनों की अवधि में दृश्य से अदृश्य होती रहती है और इसकी गैस की पूँछ १३ प्रकाश-वर्ष लम्बी है!</string>
+    <string name="object_info_cetus_size">१,२३१ वर्ग अंश</string>
+    <!-- Phoenix -->
+    <string name="object_info_phoenix_description">गरुड़-पक्षी (Phoenix) एक दक्षिणी नक्षत्रमण्डल है जो उस पौराणिक पक्षी का प्रतीक है जो स्वयं की भस्म से पुनर्जीवित होता है।</string>
+    <string name="object_info_phoenix_funfact">गरुड़-पक्षी उन १२ नक्षत्रों में से एक था जिन्हें १६वीं शताब्दी के अन्त में डच अन्वेषकों ने सुदूर दक्षिणी तारों से निर्मित किया था!</string>
+    <string name="object_info_phoenix_size">४६९ वर्ग अंश</string>
+    <!-- Grus -->
+    <string name="object_info_grus_description">सारस (Grus) एक दक्षिणी नक्षत्रमण्डल है जिसे १६वीं शताब्दी के उत्तरार्ध में यूरोपीय नाविकों द्वारा प्रचलित किया गया था।</string>
+    <string name="object_info_grus_funfact">सारस को पूर्व में 'राजहंस' (Flamingo) के रूप में जाना जाता था, जिसे पश्चात में सारस के रूप में परिवर्तित कर दिया गया!</string>
+    <string name="object_info_grus_size">३६६ वर्ग अंश</string>
+    <!-- Pavo -->
+    <string name="object_info_pavo_description">मयूर (Pavo) एक दक्षिणी नक्षत्रमण्डल है जिसमें प्रदीप्त तारा 'मयूर' (Peacock) और कई रोचक मन्दाकिनियाँ स्थित हैं।</string>
+    <string name="object_info_pavo_funfact">मयूर तारा (अल्फा पैवोनिस) हमारे सूर्य के २०० प्रकाश-वर्ष के भीतर स्थित द्वितीय सर्वाधिक प्रकाशमान तारा है!</string>
+    <string name="object_info_pavo_size">३७८ वर्ग अंश</string>
+    <!-- Triangulum -->
+    <string name="object_info_triangulum_description">त्रिकोण (Triangulum) एक लघु उत्तरी नक्षत्रमण्डल है जिसमें त्रिकोण मन्दाकिनी (M33) स्थित है, जो स्थानीय समूह की तृतीय विशालतम सदस्य है।</string>
+    <string name="object_info_triangulum_funfact">त्रिकोण मन्दाकिनी वह सुदूरतम पिण्ड है जिसे आदर्श परिस्थितियों में नग्न आँखों से देखा जा सकता है!</string>
+    <string name="object_info_triangulum_size">१३२ वर्ग अंश</string>
+    <!-- Delphinus -->
+    <string name="object_info_delphinus_description">शिशुमार (Delphinus) एक लघु परन्तु विशिष्ट नक्षत्रमण्डल है जिसके तारे एक उछलती हुई सूँस (dolphin) की आकृति बनाते हैं।</string>
+    <string name="object_info_delphinus_funfact">शिशुमार मण्डल के दो तारों के नाम 'सुआलोसिन' और 'रोटानेव' हैं - जो उनके नामकरणकर्ता खगोलविद "निकोलाउस वेनेटर" के विलोम वर्तनी हैं!</string>
+    <string name="object_info_delphinus_size">१८९ वर्ग अंश</string>
+    <!-- Sagitta -->
+    <string name="object_info_sagitta_description">शन्कु (Sagitta) तृतीय लघुतम नक्षत्रमण्डल है, जो विभिन्न पौराणिक कथाओं के वाणों का प्रतिनिधित्व करता है।</string>
+    <string name="object_info_sagitta_funfact">अत्यन्त लघु होने के उपरान्त भी, शन्कु में म७१ स्थित है, जिसे शताब्दियों तक भ्रमवश एक खुला पुञ्ज समझा जाता रहा था!</string>
+    <string name="object_info_sagitta_size">८० वर्ग अंश</string>
+</resources>
