@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+इसका शुद्ध हिंदी में अनुवाद 23-02-2026 को वृश्चिक द्वारा किया गया ।
+भाषा की शुद्धता बनाए रखने हेतु कृपया अन्य भाषाओं के शब्द न जोड़ें ।
+-->
 <resources>
     <!-- Constellations -->
     <string name="andromeda" translation_description="Name of the Andromeda constellation">देवयानी</string>
