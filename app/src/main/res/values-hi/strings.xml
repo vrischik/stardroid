@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Please add  translation_description="" attributes to Strings to assist the translators. -->
+<resources>
+    <string name="app_name" translation_description="Application Title">आकाश मानचित्र</string>
+    <string name="menu_settings">विन्यास</string>
+    <string name="menu_search">अन्वेषण</string>
+    <string name="cancel">निरस्त करें</string>
+    <string name="set" translation_description="Button label. Set the date to the given value">निर्धारित करें</string>
+    <string name="go">प्रारंभ करें!</string>
+    <string name="start_from_now">अभी से प्रारंभ करें</string>
+    <string name="other_prefs">अन्य</string>
+    <string name="location_prefs">स्थान विन्यास</string>
+    <string name="force_gps_pref">सदा वैश्विक स्थिति-निर्धारण प्रणाली का उपयोग करें</string>
+    <string name="force_gps_pref_hint" translation_description="this string continues from \'Always use GPS\'">यदि सक्रिय है, तो संजाल स्थान उपलब्ध होने पर भी इसी का उपयोग होगा</string>
+    <string name="no_use_gps_pref">हस्तचालित रूप से स्थान निर्धारित करें</string>
+    <string name="no_use_gps_pref_hint">नीचे स्थान का नाम या अक्षांश/देशांतर अंकित करें</string>
+    <string name="location_placename">स्थान का नाम</string>
+    <string name="location_placename_hint" translation_description="An example address.  Translators: please pick an address suitable for your country.  If it has an astronomical connection (e.g. the address of an observatory or famous astronomer) then that would be even better.">यथा: आर्यभट्ट प्रेक्षण विज्ञान शोध संस्थान, नैनीताल, उत्तराखंड।</string>
+    <string name="location_lat_pref">अक्षांश</string>
+    <string name="location_long_pref">देशांतर</string>
+    <string name="degrees" translation_description="angular degrees">अंश</string>
+    <string name="preferences">विन्यास</string>
+    <string name="location_offer_to_enable">स्वचालित-स्थान निष्क्रिय है। क्या आप इसे सक्रिय करना चाहेंगे?</string>
+    <string name="location_offer_to_enable_gps_title">स्वचालित-स्थान निष्क्रिय</string>
+    <string name="location_permission_dialog_title">स्थान आवश्यक</string>
+    <string name="location_permission_dialog_message">सही रात्रि आकाश दिखाने के लिए आकाश मानचित्र को आपके अनुमानित स्थान की आवश्यकता है। आप अनुमति दे सकते हैं, हस्तचालित रूप से अपना स्थान अंकित कर सकते हैं, अथवा बाद में निर्णय ले सकते हैं। यदि आप बाद में निर्णय लेते हैं, तो स्थान निर्धारित होने तक मानचित्र सटीक नहीं होगा।</string>
+    <string name="location_permission_grant">अनुमति प्रदान करें</string>
+    <string name="location_permission_enter_manually">हस्तचालित रूप से अंकित करें</string>
+    <string name="location_permission_later">बाद में</string>
+    <string name="location_set_auto">स्थान %2$s पर निर्धारित</string>
+    <string name="location_unable_to_geocode">आपके स्थान का अर्थ निकालने में असमर्थ - संभवतः आपका संजाल उपलब्ध नहीं है?</string>
+    <string name="location_not_found_title" translation_description="dialog box title when location not found">क्षमा करें</string>
+    <string name="location_not_found" translation_description="dialog message when placename not found">%s नहीं मिला।</string>
+    <string name="location_long_lat">देशांतर:%1$.2f, अक्षांश:%2$.2f</string>
+    <string name="location_place_found">स्थान मिल गया। अक्षांश %1$f और देशांतर %2$f निर्धारित किया जा रहा है</string>
+    <string name="use_magnetic_correction">चुंबकीय सुधार का उपयोग करें</string>
+    <string name="use_magnetic_correction_hint">चुंबकीय उत्तर को वास्तविक उत्तर में शोधित करने के लिए अपने स्थान के ज्ञान का उपयोग करें</string>
+    <string name="manual_compass_adjustment_title">अतिरिक्त दिक्सूचक समायोजन</string>
+    <string name="manual_compass_adjustment_summary">दिक्सूचक पठन में जोड़ा गया अंशों में अतिरिक्त विस्थापन (+ या −)</string>
+    <!-- This string is too long and currently unused -->
+    <string name="provider_prefs" translation_description="Dialog box title for a preferences dialog">प्रदर्शित करें...</string>
+    <string name="show_stars_pref">तारे</string>
+    <string name="show_constellations_pref">तारामंडल</string>
+    <string name="show_messier_objects_pref" translation_description="The celestial objects catalogued by Charles Messier">मेसिये वस्तुएं</string>
+    <string name="show_planets_pref">सौर मंडल</string>
+    <string name="show_grid_pref">विषुवांश/क्रांति जाल</string>
+    <string name="show_horizon_pref">क्षितिज</string>
+    <string name="show_sky_gradient" translation_description="This is a shading of the color of the sky used for effect">आकाश प्रवणता</string>
+    <string name="show_meteors_pref">उल्कापात</string>
+    <string name="show_comet_layer_pref">धूमकेतु</string>
+<string name="show_satellite_layer_pref" translation_description="The layer for satellites">उपग्रह</string>
+    <!-- Just in case we decide to have such a layer for the 4/24 launch -->
+    <string name="show_hubble_layer_pref">हबल चित्र</string>
+    <string name="sensor_prefs">संवेदक विन्यास (विशेषज्ञ)</string>
+    <string name="sensor_speed" translation_description="Old, non gyro sensors only: How quickly the sensor should send us data">संवेदक गति</string>
+    <string name="sensor_damping" translation_description="Old, non gyro sensors only: The amount of smoothing applied to the sensor outputs.">अवमंदन</string>
+    <string name="appearance_prefs"
+        translation_description="Preferences title for section about app appearance">रूप-रंग
+    </string>
+    <string name="auto_dimness_preference"
+        translation_description="Mode for automatically dimming the screen when night mode is selected">
+        स्वतः पटल मंदन</string>
+    <string name="font_size_preference"
+        translation_description="Change the font size">
+        अक्षर आकार</string>
+    <string name="font_size_preference_description"
+        translation_description="help to go along with the change font size preference">नामांकन
+        पाठ का आकार समायोजित करें</string>
+    <string name="ecliptic">क्रांतिवृत्त</string>
+    <string name="eclipse24">ग्रहण पथ २०२४-०४-०८</string>
+    <string name="malformed_loc_error">अक्षांश या देशांतर विन्यास संख्यात्मक नहीं है।</string>
+    <string name="dialog_accept" translation_description="accepting the licence agreement">स्वीकार करें</string>
+    <string name="dialog_decline" translation_description="declining the licence agreement">अस्वीकार करें</string>
+    <string name="dialog_ok_button">अस्तु</string>
+    <string name="menu_credits" translation_description="menu item to show \'Credits\' box">श्रेय</string>
+    <string name="credits_dialog_title">श्रेय</string>
+    <string name="menu_help" translation_description="menu item to show \'Help\' box">सहायता</string>
+    <string name="help_dialog_title">आकाश मानचित्र हेतु सहायता</string>
+    <string name="eula_dialog_title">अंत्य-उपयोक्ता अनुज्ञप्ति अनुबंध</string>
+    <string name="set_manual">हस्तचालित अवस्था में परिवर्तन</string>
+    <string name="set_auto">स्वचालित अवस्था में परिवर्तन</string>
+    <string name="menu_zoom_in">निकट दृश्य</string>
+    <string name="menu_zoom_out">दूर दृश्य</string>
+    <string name="menu_toggle_dim">रात्रिकालीन अवस्था विनिमय</string>
+    <string name="zenith">शिरोबिंदु</string>
+    <string name="nadir">अधोबिंदु</string>
+    <string name="north">उत्तर</string>
+    <string name="east">पूर्व</string>
+    <string name="west">पश्चिम</string>
+    <string name="south">दक्षिण</string>
+    <string name="search_label">आकाश में अन्वेषण करें</string>
+    <string name="search_hint" translation_description="an example search target">यथा: मंगल</string>
+    <string name="no_search_title">कोई परिणाम नहीं</string>
+    <string name="no_search_results_text">कोई परिणाम नहीं मिला।</string>
+    <!-- Hopefully this is a temporary measure until we can fix the search engine -->
+    <string name="no_search_results_text2">कोई परिणाम नहीं मिला। संभवतः वस्तु इस समय
+        दृश्य नहीं है।</string>
+    <string name="many_search_results_title">क्या आपका तात्पर्य निम्नलिखित से था?</string>
+    <string name="many_search_results_text">कृपया एक का चयन करें</string>
+    <string name="searching_for_text">%s के लिए अन्वेषण किया जा रहा है...</string>
+<string name="found_target_text">%s मिल गया।</string>
+    <string name="other" translation_description="A preference category (ie preferences that don't belong in any other category)">अन्य</string>
+    <string name="planetary_images">ग्रहों के चित्र प्रदर्शित करें</string>
+    <string name="show_messier_images">मेसिये चित्रों को प्रदर्शित करें</string>
+    <string name="show_messier_images_summary">मेसिये वस्तुओं को बिंदुओं के स्थान पर मंदाकिनी चिह्नों के रूप में प्रदर्शित करें</string>
+    <string name="menu_time">समय यात्रा</string>
+    <string name="time_travel_start_message">समय के माध्यम से यात्रा की जा रही है ...</string>
+    <string name="time_travel_start_message_alt">%s तक समय यात्रा की जा रही है ...</string>
+    <string name="time_travel_close_message">वर्तमान में वापसी ...</string>
+    <!--  -->
+    <string name="popular_dates_prompt" translation_description="Label for a list of dates the user can choose from">लोकप्रिय तिथियां</string>
+    <string name="custom_date_prompt" translation_description="Label telling the user to manually specify a date">अथवा अपनी स्वयं की तिथि और समय चुनें:</string>
+    <string name="change_date_prompt">तिथि परिवर्तित करें</string>
+    <string name="change_time_prompt">समय परिवर्तित करें</string>
+    <string name="now_visiting"
+            translation_description="used in time travel dialog to show the destination date/time the user has selected, time formatted as yyyy.mm.dd at hh.mm.ss + timezone">
+        गंतव्य: %s</string>
+    <string name="time_travel_label_past" translation_description="Label showing that we are in the past">समय यात्रा: अतीत</string>
+    <string name="time_travel_label_future" translation_description="Label showing that we are in the future">समय यात्रा: भविष्य</string>
+    <string name="time_travel_stopped" translation_description="Label showing rate of travel through time">समय यात्रा स्थिर</string>
+    <string name="time_travel_second_speed" translation_description="Label showing rate of travel through time.  The symbol means greater than.">यात्रा &gt; @ १ क्षण/क्षण</string>
+    <string name="time_travel_minute_speed" translation_description="Label showing rate of travel through time">यात्रा &gt; @ १ मिनट/क्षण</string>
+    <string name="time_travel_10minute_speed" translation_description="Label showing rate of travel through time">यात्रा &gt; @ १० मिनट/क्षण</string>
+    <string name="time_travel_hour_speed" translation_description="Label showing rate of travel through time">यात्रा &gt; @ १ घंटा/क्षण</string>
+    <string name="time_travel_day_speed" translation_description="Label showing rate of travel through time">यात्रा &gt; @ १ दिन/क्षण</string>
+    <string name="time_travel_week_speed" translation_description="Label showing rate of travel through time">यात्रा &gt; @ १ सप्ताह/क्षण</string>
+    <string name="time_travel_second_speed_back" translation_description="Label showing rate of travel through time">यात्रा &lt; @ १ क्षण/क्षण</string>
+    <string name="time_travel_minute_speed_back" translation_description="Label showing rate of travel through time">यात्रा &lt; @ १ मिनट/क्षण</string>
+    <string name="time_travel_10minute_speed_back" translation_description="Label showing rate of travel through time">यात्रा &lt; @ १० मिनट/क्षण</string>
+    <string name="time_travel_hour_speed_back" translation_description="Label showing rate of travel through time">यात्रा &lt; @ १ घंटा/क्षण</string>
+    <string name="time_travel_day_speed_back" translation_description="Label showing rate of travel through time">यात्रा &lt; @ १ दिन/क्षण</string>
+    <string name="time_travel_week_speed_back" translation_description="Label showing rate of travel through time">यात्रा &lt; @ १ सप्ताह/क्षण</string>
+
+    <!-- Time Travel dialog event display names -->
+    <string name="time_travel_select_hint">-- एक लोकप्रिय घटना चुनें --</string>
+    <string name="time_travel_next_sunset">अगला सूर्यास्त</string>
+    <string name="time_travel_next_sunrise">अगला सूर्योदय</string>
+    <string name="time_travel_next_fullmoon">अगली पूर्णिमा</string>
+    <string name="time_travel_next_newmoon">अगली अमावस्या</string>
+    <string name="time_travel_mercury_transit_2016">९ मई, २०१६ का बुध पारगमन</string>
+    <string name="time_travel_solar_eclipse_2024">८ अप्रैल, २०२४ का उत्तर अमेरिकी सूर्य ग्रहण</string>
+    <string name="time_travel_apollo_11">अपोलो ११ चंद्र अवतरण</string>
+    <string name="time_travel_jupiter_saturn_2020">२०२० की बृहस्पति-शनि युति</string>
+    <string name="time_travel_six_planet_parade_2026">षट्-ग्रह संरेखण, २८ फरवरी, २०२६</string>
+    <string name="time_travel_lunar_eclipse_2026">पूर्ण चंद्र ग्रहण, ३ मार्च, २०२६</string>
+    <string name="time_travel_lyrids_2026">वीणा (लिरिड्स) उल्कापात, २२ अप्रैल, २०२६</string>
+    <string name="time_travel_venus_jupiter_2026">शुक्र-बृहस्पति युति, ९ जून, २०२६</string>
+    <string name="time_travel_mars_uranus_2026">मंगल-अरुण सामीप्य, ४ जुलाई, २०२६</string>
+    <string name="time_travel_solar_eclipse_2026">पूर्ण सूर्य ग्रहण, १२ अगस्त, २०२६</string>
+    <string name="time_travel_perseids_2026">ययाति (पर्सिड्स) उल्कापात, १२-१३ अगस्त, २०२६</string>
+<string name="time_travel_jupiter_occultation_2026">६ अक्टूबर, २०२६ का बृहस्पति चंद्र-प्रच्छादन</string>
+    <string name="time_travel_geminids_2026">मिथुन (जेमिनिड्स) उल्कापात, १३-१४ दिसंबर, २०२६</string>
+    <string name="time_travel_supermoon_2026">क्रिसमस की पूर्व संध्या का महाचंद्र, २४ दिसंबर, २०२६</string>
+
+    <string name="use_sound_effects" translation_description="A preferences menu label">ध्वनि सक्रिय करें</string>
+
+    <string name="enable_layer_toast">%s स्तर सक्रिय किया जा रहा है</string>
+    <string name="disable_layer_toast">%s स्तर निष्क्रिय किया जा रहा है</string>
+    <string name="menu_gallery">दीर्घा</string>
+    <string name="gallery_image_search_btn">आकाश में खोजें</string>
+    <string name="gallery_image_back_btn">दीर्घा में वापस जाएँ</string>
+    <string name="hubble_image_gallery_title">आकाश मानचित्र दीर्घा</string>
+    <string name="hubble_image">हबल चित्र</string>
+    <!--  TODO(johntaylor): currently unused -->
+
+    <string name="search_target_found_message" translation_description="displayed when a search target has been located">आपको मिल गया:</string>
+    <string name="search_overlay_title" translation_description="title for search overlay">अपने उपकरण को तीर की दिशा में करें</string>
+    <string name="search_target_looking_message" translation_description="displayed when a search target is being searched for">खोज जारी:</string>
+    <string name="sun_wont_set_message">आपके वर्तमान स्थान पर अगले २४ घंटों के दौरान सूर्यास्त नहीं होगा।</string>
+    <string name="sun_wont_rise_message">आपके वर्तमान स्थान पर अगले २४ घंटों के दौरान सूर्योदय नहीं होगा।</string>
+
+    <string name="missing_label" translation_description="Used to indicate to the developer that they've added a resource with no translation.">अनुपस्थित_शीर्षक</string>
+
+    <string name="menu_tos">सेवा की शर्तें</string>
+    <string name="menu_diagnostics">नैदानिक</string>
+    <!-- TODO(johntaylor): the following might be deleted in favor of an icon -->
+    <string name="control_panel_btn" translation_description="Label for the control panel button">नियंत्रण पटल</string>
+
+    <string name="north_pole">उ.ध्रु.</string>
+    <string name="south_pole">द.ध्रु.</string>
+
+    <string name="kml_load_error">के.एम.एल. (KML) संचिका लोड करने में विफल</string>
+    <string name="load_kml_dialog_title">के.एम.एल. लोड करें</string>
+    <string name="load_kml_file">लोड करें</string>
+    <string name="enable_analytics">उपयोग सांख्यिकी भेजें</string>
+    <string name="enable_analytics_desc">गूगल वैश्लेषिकी (Google Analytics) को अज्ञात आंकड़े भेजकर आकाश मानचित्र को और बेहतर बनाएं</string>
+
+    <string name="no_sensor_warning">आपके उपकरण में अभिविन्यास संवेदकों का अभाव हो सकता है - स्वचालित-अवस्था कार्य नहीं कर सकती है</string>
+    <string name="warning_dialog_title">अप्रिय सूचना!</string>
+    <string name="missing_sensor_dialog_text">\n
+        दुर्भाग्य से आपके उपकरण में उन संवेदकों में से एक की कमी हो सकती है
+    जिनकी आकाश मानचित्र को आवश्यकता है।\n\n
+        आपका उपकरण जिस दिशा में इंगित कर रहा है, उस दिशा में आकाश दिखाने के लिए आकाश मानचित्र को
+    अंतर्निहित दिक्सूचक और त्वरणमापी दोनों की आवश्यकता होती है। आपका उपकरण सूचित करता है कि इसमें
+        उनमें से एक अनुपस्थित है। सुखद समाचार यह है कि कुछ उपकरण (उदाहरण के लिए कुछ मोटो ई फोन) दिक्सूचक न होने का
+        मिथ्या दावा करते हैं जबकि वास्तव में उनमें वह होता है।\n\n
+
+        यदि आपके उपकरण में वास्तव में संवेदक अनुपस्थित है, तो स्वचालित-अवस्था कार्य नहीं करेगी। तथापि, आप
+        अभी भी इस उपकरण पर आकाश मानचित्र का उपयोग हस्तचालित अवस्था में कर सकते हैं जहाँ आप अपनी उंगलियों से मानचित्र को
+        खींच, घुमा और फैला सकते हैं।
+    </string>
+<string name="do_not_show_again">यह संदेश पुनः न दिखाएँ</string>
+    <string name="title_activity_diagnostic">नैदानिक</string>
+    <string name="play_services_error">चेतावनी: गूगल प्ले सेवा त्रुटि - स्वचालित स्थान कार्य नहीं कर सकता है</string>
+    <string name="sensor_absent">अनुपस्थित</string>
+    <string name="sensor_accuracy_unknown">सटीकता: अज्ञात</string>
+    <string name="sensor_accuracy_unreliable">सटीकता: अविश्वसनीय</string>
+    <string name="sensor_accuracy_low">सटीकता: न्यून</string>
+    <string name="sensor_accuracy_medium">सटीकता: मध्यम</string>
+    <string name="sensor_accuracy_high">सटीकता: उच्च</string>
+    <string name="sensor_accuracy_nocontact">सटीकता: कोई संपर्क नहीं</string>
+    <string name="diagnostics_activity_general_heading">सामान्य</string>
+    <string name="diagnostics_activity_phone">उपकरण</string>
+    <string name="diagnostics_activity_android_version">एंड्रॉइड संस्करण</string>
+    <string name="diagnostics_activity_sky_map_version">आकाश मानचित्र संस्करण</string>
+    <string name="diagnostics_activity_sensors_heading">संवेदक</string>
+    <string name="diagnostics_activity_compass">दिक्सूचक</string>
+    <string name="diagnostics_activity_accelerometer">त्वरणमापी</string>
+    <string name="diagnostics_activity_rotation_vector">घूर्णन</string>
+    <string name="diagnostics_activity_gyroscope">घूर्णनदर्शी</string>
+    <string name="diagnostics_activity_light_level">प्रकाश स्तर</string>
+    <string name="diagnostics_activity_location_and_time_heading">स्थान और समय</string>
+    <string name="diagnostics_activity_gps">वैश्विक स्थिति-निर्धारण प्रणाली</string>
+    <string name="diagnostics_activity_location">स्थान (अक्षांश, देशांतर)</string>
+    <string name="diagnostics_activity_pointing_ra_dec">अभिमुखता स्नैपशॉट</string>
+    <string name="diagnostics_activity_magnetic_correction">चुंबकीय शोधन</string>
+    <string name="diagnostics_activity_local_datetime">स्थानीय दिनांक-समय</string>
+    <string name="diagnostics_activity_universal_time">सार्वभौमिक दिनांक-समय</string>
+    <string name="diagnostics_activity_network_heading">संजाल</string>
+    <string name="diagnostics_activity_connection">संबंध</string>
+    <string name="diagnostics_activity_rotation_matrix">घूर्णन आव्यूह</string>
+    <string name="enabled">सक्रिय</string>
+    <string name="disabled">निष्क्रिय</string>
+    <string name="permission_disabled">अनुमति निष्क्रिय</string>
+    <string name="no_gps">कोई जी.पी.एस. नहीं</string>
+    <string name="connected">संबद्ध</string>
+    <string name="disconnected">विच्छिन्न</string>
+    <string name="wifi">" (बेतार संजाल)"</string>
+    <string name="cell_network">" (कोशिकीय संजाल)"</string>
+    <string name="menu_calibrate">शोधन करें</string>
+    <string name="compass_calibration_activity_heading_compass">दिक्सूचक -</string>
+    <string name="compass_calibration_activity_do_not_show_this_again">इसे पुनः न दिखाएँ</string>
+    <string name="compass_calibration_activity_warning">यंत्रांश शोधन आवश्यक</string>
+    <string name="compass_calibration_activity_user_heading">अपना संरेखण सुधारें</string>
+    <string name="compass_calib_what_to_do"
+        translation_description="Information for the user on how to calibrate the compass when the dialog auto-opens. Placeholder is the video URL"><![CDATA[
+आकाश मानचित्र आपके उपकरण के अंतर्निहित दिक्सूचक संवेदक पर निर्भर करता है। यदि ऊपर दिखाई गई सटीकता न्यून है, तो संवेदक को \'८\' (eight) की आकृति में घुमाकर "पुनः निर्धारित" करने की आवश्यकता है: %s।<br/><br/>
+    <b>महत्वपूर्ण:</b> शोधन आपके उपकरण द्वारा संचालित एक यंत्रांश प्रक्रिया है। यद्यपि यह संवेदक की विश्वसनीयता में सुधार करता है, बाहरी चुंबकीय व्यतिकरण अभी भी "पूर्वाग्रह" या मामूली विचलन का कारण बन सकता है। यह चल-दूरभाष दिक्सूचकों की एक भौतिक सीमा है न कि अनुप्रयोग की त्रुटि। अन्य उपायों के लिए <i>सहायता</i> में <i>समस्या निवारण</i> देखें।
+    ]]></string>
+<string name="compass_calib_what_to_do_user"
+        transation_description="Information for the user on how to calibrate the compass when they invoke the calibration dialog. Placeholder is the video URL"><![CDATA[
+        आपका उपकरण ऊपर दर्शाए अनुसार अपनी दिक्सूचक सटीकता सूचित करता है। इसमें सुधार हेतु, कृपया अपने उपकरण के साथ '८' (eight) की आकृति वाली गति करें (%s)।<br/><br/>
+        <b>सटीकता पर विशेष:</b> शोधन (Calibration) आपके उपकरण की एक यंत्रांश-स्तरीय आवश्यकता है, न कि आकाश मानचित्र का कोई विन्यास। शोधित होने पर भी, स्थानीय चुंबकीय क्षेत्र (जैसे वाहन का नियंत्रण-पट्ट या चुंबक) दिशा में मामूली पूर्वाग्रह उत्पन्न कर सकते हैं।  अन्य उपायों हेतु <i>सहायता</i> में <i>समस्या निवारण</i> देखें।
+    ]]></string>
+    <string name="sensor_reverse_preference_title">चुंबकीय Z विपरीत करें</string>
+    <string name="sensor_reverse_preference_summary">त्रुटिपूर्ण संवेदक वाले उपकरणों हेतु सुधार - पुनरारंभ आवश्यक है</string>
+    <string name="whats_new_dialog_title">नवीन विशेषताएँ</string>
+    <string name="disable_gyro_preference_title">घूर्णनदर्शी निष्क्रिय करें</string>
+    <string name="disable_gyro_preference_summary">सभी उपकरणों में घूर्णनदर्शी (gyro) नहीं होता - यदि आपके उपकरण में है, तो इसे सक्रिय रखने पर आपको उत्तम परिणाम मिलेंगे।  दूसरी ओर यदि आपके उपकरण में घूर्णनदर्शी नहीं है, तो इसे सक्रिय करने पर संभवतः आकाश मानचित्र कार्य नहीं करेगा।</string>
+    <string name="rotate_horizon_preference_title">दृश्य दिशा</string>
+
+    <string name="rotate_horizon_preference_summary">क्षितिज को ९० अंश घुमाएँ (अनिवार्य क्षितिज-समतल अभिविन्यास वाले उपकरणों हेतु) अथवा पटल पर यह दिखाने हेतु 'सूचक अवस्था' का उपयोग करें कि उपकरण का शीर्ष किस ओर इंगित कर रहा है (सहायता पाठ देखें)।</string>
+
+    <string name="show_object_info_pref_title" translation_description="Preference title for showing info cards when tapping objects">स्पर्श पर सूचना दिखाएँ</string>
+    <string name="show_object_info_pref_summary" translation_description="Preference summary for the tap info feature">खगोलीय पिंडों के विषय में जानने हेतु उन पर स्पर्श करें</string>
+    <string name="show_object_info_auto_mode_title" translation_description="Preference title for enabling info cards in auto/sensor mode">स्वचालित अवस्था में सूचना पत्रक</string>
+    <string name="show_object_info_auto_mode_summary" translation_description="Preference summary for auto mode info cards">स्वचालित (संवेदक) अवस्था में भी पिंडों पर स्पर्श करने पर सूचना पत्रक दिखाएँ</string>
+    <string name="object_info_funfact_label" translation_description="Label before the fun fact in info card">रोचक तथ्य:</string>
+    <string name="object_info_distance_label" translation_description="Label for distance field">दूरी:</string>
+    <string name="object_info_size_label" translation_description="Label for size field">आकार:</string>
+    <string name="object_info_mass_label" translation_description="Label for mass field">द्रव्यमान:</string>
+    <string name="object_info_spectral_label" translation_description="Label for spectral class">वर्णक्रमीय श्रेणी:</string>
+    <string name="object_info_magnitude_label" translation_description="Label for apparent magnitude">परिमाण:</string>
+
+</resources>
