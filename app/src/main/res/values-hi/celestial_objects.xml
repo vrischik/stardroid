@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Constellations -->
+    <string name="andromeda" translation_description="Name of the Andromeda constellation">देवयानी</string>
+    <string name="aquarius" translation_description="Name of the Aquarius constellation">कुम्भ</string>
+    <string name="aquila" translation_description="Name of the Aquila constellation">गरुड़</string>
+    <string name="aries" translation_description="Name of the Aries constellation">मेष</string>
+    <string name="auriga" translation_description="Name of the Auriga constellation">सारथि</string>
+    <string name="bootes" translation_description="Name of the Bootes constellation">भूतप</string>
+    <string name="cancer" translation_description="Name of the Cancer constellation">कर्क</string>
+    <string name="canis_major" translation_description="Name of the Canis Major constellation">महाश्वान</string>
+    <string name="capricornus" translation_description="Name of the Capricornus constellation">मकर</string>
+    <string name="carina" translation_description="Name of the Carina constellation">नौतल</string>
+    <string name="cassiopeia" translation_description="Name of the Cassiopeia constellation">शर्मिष्ठा</string>
+    <string name="centaurus" translation_description="Name of the Centaurus constellation">नरतुरङ्ग</string>
+    <string name="cetus" translation_description="Name of the Cetus constellation">तिमि</string>
+    <string name="crux" translation_description="Name of the Crux constellation">त्रिशङ्कु</string>
+    <string name="cygnus" translation_description="Name of the Cygnus constellation">हंस</string>
+    <string name="draco" translation_description="Name of the Draco constellation">कालिय</string>
+    <string name="eridanus" translation_description="Name of the Eridanus constellation">अग्रनद</string>
+    <string name="gemini" translation_description="Name of the Gemini constellation">मिथुन</string>
+    <string name="grus" translation_description="Name of the Grus constellation">सारस</string>
+    <string name="hercules" translation_description="Name of the Hercules constellation">हैयय</string>
+    <string name="hydrus" translation_description="Name of the Hydrus constellation">लघु-वासुकि</string>
+    <string name="leo" translation_description="Name of the Leo constellation">सिंह</string>
+    <string name="libra" translation_description="Name of the Libra constellation">तुला</string>
+    <string name="lupus" translation_description="Name of the Lupus constellation">वृक</string>
+    <string name="lyra" translation_description="Name of the Lyra constellation">वीणा</string>
+    <string name="ophiuchus" translation_description="Name of the Ophiuchus constellation">सर्पधर</string>
+    <string name="orion" translation_description="Name of the Orion constellation">कालपुरुष</string>
+    <string name="pavo" translation_description="Name of the Pavo constellation">मयूर</string>
+    <string name="pegasus" translation_description="Name of the Pegasus constellation">अश्व</string>
+    <string name="perseus" translation_description="Name of the Perseus constellation">ययाति</string>
+    <string name="phoenix" translation_description="Name of the Phoenix constellation">गरुड़-पक्षी</string>
+    <string name="pisces" translation_description="Name of the Pisces constellation">मीन</string>
+    <string name="piscis_austrinus" translation_description="Name of the Piscis Austrinus constellation">दक्षिणी मीन</string>
+    <string name="puppis" translation_description="Name of the Puppis constellation">पश्च-पोत</string>
+    <string name="sagittarius" translation_description="Name of the Sagittarius constellation">धनु</string>
+    <string name="scorpius" translation_description="Name of the Scorpius constellation">वृश्चिक</string>
+    <string name="taurus" translation_description="Name of the Taurus constellation">वृषभ</string>
+    <string name="tucana" translation_description="Name of the Tucana constellation">तुकान</string>
+    <string name="ursa_major" translation_description="Name of the Ursa Major constellation">सप्तर्षि-मण्डल</string>
+    <string name="ursa_minor" translation_description="Name of the Ursa Minor constellation">लघु-सप्तर्षि</string>
+    <string name="vela" translation_description="Name of the Vela constellation">पाल</string>
+    <string name="virgo" translation_description="Name of the Virgo constellation">कन्या</string>
+    <string name="capricorn" translation_description="Name of the Capricorn constellation">मकर</string>
+    <string name="southern_cross" translation_description="Name of the Southern Cross constellation">त्रिशङ्कु</string>
+    <string name="scorpio" translation_description="Name of the Scorpio constellation">वृश्चिक</string>
+    <string name="little_dipper" translation_description="Name of the Little Dipper constellation">लघु-सप्तर्षि</string>
+    <string name="little_bear" translation_description="Name of the Little Bear constellation">लघु-सप्तर्षि</string>
+    <string name="big_dipper" translation_description="Name of the Big Dipper constellation">सप्तर्षि</string>
+    <string name="great_bear" translation_description="Name of the Great Bear constellation">ऋक्ष</string>
+    <string name="plough" translation_description="Name of the Plough constellation">हल</string>
+    <string name="antlia" translation_description="Name of the Antlia constellation">पम्प</string>
+    <string name="apus" translation_description="Name of the Apus constellation">अपस</string>
+    <string name="ara" translation_description="Name of the Ara constellation">वेदी</string>
+    <string name="caelum" translation_description="Name of the Caelum constellation">उत्कीर्णक</string>
+    <string name="camelopardalis" translation_description="Name of the Camelopardalis constellation">चित्रोष्ट्र</string>
+    <string name="canes_venatici" translation_description="Name of the Canes Venatici constellation">व्याध-श्वान</string>
+    <string name="canis_minor" translation_description="Name of the Canis Minor constellation">लघुश्वान</string>
+    <string name="cepheus" translation_description="Name of the Cepheus constellation">वृषपर्व</string>
+    <string name="chamaeleon" translation_description="Name of the Chamaeleon constellation">कृकलास</string>
+    <string name="circinus" translation_description="Name of the Circinus constellation">वृत्तजाल</string>
+    <string name="columba" translation_description="Name of the Columba constellation">कपोत</string>
+    <string name="coma_berenices" translation_description="Name of the Coma Berenices constellation">वेणी</string>
+    <string name="corona_australis" translation_description="Name of the Corona Australis constellation">दक्षिणी मुकुट</string>
+    <string name="corona_borealis" translation_description="Name of the Corona Borealis constellation">उत्तरी मुकुट</string>
+    <string name="corvus" translation_description="Name of the Corvus constellation">हस्त</string>
+    <string name="crater" translation_description="Name of the Crater constellation">चषक</string>
+    <string name="delphinus" translation_description="Name of the Delphinus constellation">शिशुमार</string>
+    <string name="dorado" translation_description="Name of the Dorado constellation">स्वर्ण-मत्स्य</string>
+    <string name="equuleus" translation_description="Name of the Equuleus constellation">लघु-अश्व</string>
+    <string name="fornax" translation_description="Name of the Fornax constellation">भ्राष्ट्र</string>
+    <string name="horologium" translation_description="Name of the Horologium constellation">घटिका</string>
+    <string name="hydra" translation_description="Name of the Hydra constellation">वासुकि</string>
+    <string name="indus" translation_description="Name of the Indus constellation">वनवासी</string>
+    <string name="lacerta" translation_description="Name of the Lacerta constellation">गोधा</string>
+    <string name="leo_minor" translation_description="Name of the Leo Minor constellation">लघु-सिंह</string>
+    <string name="lepus" translation_description="Name of the Lepus constellation">शशक</string>
+    <string name="lynx" translation_description="Name of the Lynx constellation">मार्जार</string>
+    <string name="mensa" translation_description="Name of the Mensa constellation">शैल-पीठ</string>
+    <string name="microscopium" translation_description="Name of the Microscopium constellation">अति-लघु-दर्शक</string>
+    <string name="monoceros" translation_description="Name of the Monoceros constellation">एकशृङ्ग</string>
+    <string name="musca" translation_description="Name of the Musca constellation">मक्षिका</string>
+    <string name="norma" translation_description="Name of the Norma constellation">कोण-मापी</string>
+    <string name="octans" translation_description="Name of the Octans constellation">अष्टक</string>
+    <string name="pictor" translation_description="Name of the Pictor constellation">चित्रकार</string>
+    <string name="pyxis" translation_description="Name of the Pyxis constellation">दिशा-सूचक</string>
+    <string name="reticulum" translation_description="Name of the Reticulum constellation">जालक</string>
+    <string name="sagitta" translation_description="Name of the Sagitta constellation">शन्कु</string>
+    <string name="sculptor" translation_description="Name of the Sculptor constellation">मूर्तिकार</string>
+    <string name="scutum" translation_description="Name of the Scutum constellation">ढाल</string>
+    <string name="serpens_caput" translation_description="Name of the Serpens Caput constellation">भुजङ्ग-शीर्ष</string>
+    <string name="serpens_cauda" translation_description="Name of the Serpens Cauda constellation">भुजङ्ग-पुच्छ</string>
+    <string name="sextans" translation_description="Name of the Sextans constellation">षष्ठक</string>
+    <string name="telescopium" translation_description="Name of the Telescopium constellation">दूरवीक्षण</string>
+    <string name="triangulum" translation_description="Name of the Triangulum constellation">त्रिकोण</string>
+    <string name="triangulum_australe" translation_description="Name of the Triangulum Australe constellation">दक्षिणी त्रिकोण</string>
+    <string name="volans" translation_description="Name of the Volans constellation">उडन-मत्स्य</string>
+    <string name="vulpecula" translation_description="Name of the Vulpecula constellation">शृगाल</string>
+
+    <!-- Major solar system objects -->
+    <string name="sun">सूर्य</string>
+    <string name="moon">चन्द्र</string>
+    <string name="mercury">बुध</string>
+    <string name="venus">शुक्र</string>
+    <string name="earth">पृथ्वी</string>
+    <string name="mars">मङ्गल</string>
+    <string name="jupiter">बृहस्पति</string>
+    <string name="saturn">शनि</string>
+    <string name="uranus">अरुण</string>
+    <string name="neptune">वरुण</string>
+    <string name="pluto">यम</string>
+
+    <!-- Gallery objects -->
+    <string name="crab_nebula" translation_description="hubble object">कर्कट नीहारिका</string>
+    <string name="eagle_nebula" translation_description="hubble object">गरुड़ नीहारिका</string>
+    <string name="andromeda_galaxy" translation_description="hubble object">देवयानी मन्दाकिनी</string>
+    <string name="orion_nebula" translation_description="hubble object">मृगशीर्ष नीहारिका</string>
+    <string name="whirlpool_galaxy" translation_description="hubble object">भ्रमिल मन्दाकिनी</string>
+    <string name="ring_nebula" translation_description="hubble object">वलय नीहारिका</string>
+    <string name="pinwheel_galaxy" translation_description="hubble object">चक्रिका मन्दाकिनी</string>
+    <string name="sombrero_galaxy" translation_description="hubble object">सोम्ब्रेरो मन्दाकिनी</string>
+    <string name="hercules_gc" translation_description="hubble object">हैयय गोलतारापुञ्ज</string>
+    <string name="pleiades" translation_description="hubble object">कृत्तिका</string>
+    <string name="cats_eye_nebula" translation_description="hubble object">मार्जार-नेत्र नीहारिका</string>
+    <string name="omega_centauri" translation_description="hubble object">ओमेगा नरतुरङ्ग गोलतारापुञ्ज</string>
+    <string name="v838_mon" translation_description="hubble object">V838 एकशृङ्ग</string>
+    <string name="sn1987a" translation_description="hubble object">अधिनवतारा १९८७a</string>
+    <string name="hubble_deep_field" translation_description="hubble object">हबल सुदूर क्षेत्र</string>
+    <string name="hdf" translation_description="hubble object">हबल सुदूर क्षेत्र</string>
+    <string name="rho_oph" translation_description="hubble object">रो सर्पधर</string>
+
+
+    <!-- Stars -->
+    <string name="sirius" translation_description="Name of the Star Sirius">लुब्धक</string>
+    <string name="canopus" translation_description="Name of the Star Canopus">अगस्त्य</string>
+    <string name="arcturus" translation_description="Name of the Star Arcturus">स्वाति</string>
+    <string name="rigel_kentaurus_a" translation_description="Name of the Star Rigel Kentaurus A">मित्रक-अ</string>
+    <string name="rigil_kentaurus_a" translation_description="Name of the Star Rigil Kentaurus A">मित्रक-अ</string>
+    <string name="vega" translation_description="Name of the Star Vega">अभिजित</string>
+    <string name="rigel" translation_description="Name of the Star Rigel">बाण</string>
+    <string name="procyon" translation_description="Name of the Star Procyon">प्रश्वा</string>
+    <string name="betelgeuse" translation_description="Name of the Star Betelgeuse">आर्द्रा</string>
+    <string name="achernar" translation_description="Name of the Star Achernar">अग्रनद</string>
+    <string name="hadar" translation_description="Name of the Star Hadar">हदर</string>
+    <string name="capella" translation_description="Name of the Star Capella">ब्रह्महृदय</string>
+    <string name="altair" translation_description="Name of the Star Altair">श्रवण</string>
+    <string name="acrux" translation_description="Name of the Star Acrux">त्रिशङ्कु-तारा</string>
+    <string name="aldebaran" translation_description="Name of the Star Aldebaran">रोहिणी</string>
